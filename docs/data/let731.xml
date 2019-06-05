@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>Theo van Gogh and Jo Bonger to Vincent van Gogh. Paris/Amsterdam, on or about Sunday, 6 January 1889. Printed announcement of engagement.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let731" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">731</idno>
+<idno type="collectedletters">-</idno>
+<idno type="brieven1990">-</idno></ns1:letIdentifier><ns1:letHeading><author>Theo van Gogh and Jo van Gogh-Bonger</author><ns1:addressee>Vincent van Gogh</ns1:addressee><ns1:placeLet>Paris/Amsterdam</ns1:placeLet><ns1:dateLet>on or about Sunday, 6 January 1889</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>Theo van Gogh and Jo Bonger to Vincent van Gogh. Paris/Amsterdam, on or about Sunday, 6 January 1889. </p>
+<note n="1" type="ongoingTopic">
+<p>Theo’s engagement and marriage to Jo Bonger <ref target="let728.xml">(728)</ref></p></note></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original announcement</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b3556 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Vincent received this printed announcement from Amsterdam on the morning of Wednesday, 9 January (<ref target="let735.xml">see letter 735</ref>), so Jo must have sent it around Sunday, 6 January.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Theo van Gogh and Jo van Gogh-Bonger</persName>
+                <date when="1889-01-06">on or about Sunday, 6 January 1889</date>
+                <location>
+                  <placeName>Paris/Amsterdam</placeName>
+                  <geo>48.74741985 2.35707909739174</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Vincent van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 3556" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001005012_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001005012_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001005012_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001005012_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001005012_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001005012_01_nRf.png" width="380px" /></zone>
+</surface><surface n="b 3556 V/1984" xml:id="surf-extra-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001005012_02.TIF" /><zone xml:id="zone-extra-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001005012_02_n.TIF" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001005012_02_nt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001005012_02_nf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Verloofd</ab>
+<ns1:whiteline /><lb n="2" xml:id="l-2" />
+<ab><hi rend="sc">Theodorus van Gogh</hi></ab><lb n="3" xml:id="l-3" />
+<ab rend="indent">         en</ab><lb n="4" xml:id="l-4" />
+<ab><hi rend="sc">Johanna Bonger</hi></ab>
+    <ns1:whiteline /><lb n="5" xml:id="l-5" />
+    <ab html="731_01_ol.html" rend="html">                    {Parijs</ab><lb n="6" xml:id="l-6" />
+    <ab html="731_01_ol.html" rend="html">Januari 1889</ab><lb n="7" xml:id="l-7" />
+    <ab html="731_01_ol.html" rend="html">                    {Amsterdam</ab>
+<ns1:whiteline /><lb n="8" xml:id="l-8" />
+<ab>Receptie Woensdag 9 Januari</ab><lb n="9" xml:id="l-9" />
+<ab><hi rend="ital">Weteringschans 121</hi><anchor n="1" xml:id="note-o-1" /></ab>
+<ns1:whiteline />
+<div type="textualNotes">
+<note n="-"><hi rend="ital">Printed announcement of the engagement of Jo Bonger to Theo van Gogh. The typography has been reproduced as closely as possible. The place names Paris and Amsterdam are enclosed in a single brace after ‘January 1889’.</hi></note></div></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>Engaged</ab>
+<ns1:whiteline />
+<ab><hi rend="sc">Theodorus van Gogh</hi></ab>
+    <ab rend="indent">and </ab><ab><hi rend="sc"><rs key="416" type="pers">Johanna Bonger</rs></hi></ab>
+    <ns1:whiteline />
+    <ab html="731_01_tr.html" rend="html">{Paris</ab>
+    <ab html="731_01_tr.html" rend="html">January 1889</ab>
+    <ab html="731_01_tr.html" rend="html">{Amsterdam</ab>
+<ns1:whiteline />
+<ab>Reception Wednesday, 9 January</ab>
+<ab><hi rend="ital">Weteringschans 121</hi><anchor n="1" xml:id="note-t-1" /></ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>Weteringschans 121 in Amsterdam was the address of Jo’s parents, <rs key="22" type="pers">Hendrik Christiaan Bonger</rs> and <rs key="23" type="pers">Hermine Louise Weissman</rs>.</ab></note></div></body></text></TEI>

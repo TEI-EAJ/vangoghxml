@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Theo van Gogh. Paris, Saturday, 4 September 1875.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let044" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">044</idno>
+<idno type="collectedletters">36</idno>
+<idno type="brieven1990">044</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Theo van Gogh</ns1:addressee><ns1:placeLet>Paris</ns1:placeLet><ns1:dateLet>Saturday, 4 September 1875</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Theo van Gogh. Paris, Saturday, 4 September 1875.</p></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b45 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Letter headed: ‘Parijs 4 Sept_ 75’.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1875-09-04">Saturday, 4 September 1875</date>
+                <location>
+                  <placeName>Paris</placeName>
+                  <geo>48.8566101 2.3514992</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Theo van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 0045" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001000047_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000047_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000047_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000047_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000047_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000047_01_nRf.png" width="380px" /></zone>
+</surface>
+<surface n="b 0045" xml:id="surf-pb-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001000047_02.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000047_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000047_02_nt.jpg" /><zone xml:id="zone-pb-1v-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000047_02_nL.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000047_02_nLt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000047_02_nLf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Parijs 4 Sept<c type="kp">_</c> 75</ab>
+<ns1:whiteline /><lb n="2" xml:id="l-2" />
+<ab>Waarde Theo,</ab><lb n="3" xml:id="l-3" />
+<ab>Hierbij zend ik U mijn brief voor Moe’s <lb n="4" xml:id="l-4" />verjaardag<c type="kk">/</c><anchor n="1" xml:id="note-o-1" /> sluit die s.v.p. bij den <lb n="5" xml:id="l-5" />Uwen in. Ik heb een boek gekocht <lb n="6" xml:id="l-6" />over Michel, met etsen naar zijne <lb n="7" xml:id="l-7" />schilderijen,<anchor n="2" xml:id="note-o-2" /> zoodra ik het uit heb <lb n="8" xml:id="l-8" />stuur ik het U. Toch is ook Michel <lb n="9" xml:id="l-9" />nog lang zoo mooi niet als dat land<c type="shy">-</c><lb n="10" xml:id="l-10" />schap dat in die passage in Adam <lb n="11" xml:id="l-11" />Bede,<anchor n="3" xml:id="note-o-3" /> die ons beiden zoo getroffen <lb n="12" xml:id="l-12" />heeft, beschreven wordt.─ Bonington 
+<pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-orig-1v-2" /><lb n="13" xml:id="l-13" />heeft het ook <hi rend="ital">bijna</hi> geschilderd maar <lb n="14" xml:id="l-14" />toch is dat <hi rend="ital">het</hi> ook nog niet.</ab><lb n="15" xml:id="l-15" />
+<ab rend="indent">Als gij het boek uit hebt zou ik u wel <lb n="16" xml:id="l-16" />willen vragen het uit mijn naam <lb n="17" xml:id="l-17" />aan Oom Cor ter lezing te geven, na<c type="shy">-</c><lb n="18" xml:id="l-18" />tuurlijk bij gelegenheid, maar ik <lb n="19" xml:id="l-19" />geef het aan U.─ Ik zie de schilderijen <lb n="20" xml:id="l-20" />zelf, licht dat gij dus de beschrijving <lb n="21" xml:id="l-21" />&amp; etsen er naar hebt.─</ab><lb n="22" xml:id="l-22" />
+<ab rend="indent">Groeten bij Haanebeek, Carbentus<c type="kk">/</c> <lb n="23" xml:id="l-23" />v<c type="kp">_</c> Stockum<c type="kk">/</c> Mauve<c type="kk">/</c> Roos &amp;c<c type="kp">_</c> als het <lb n="24" xml:id="l-24" />te pas komt. Heb het zoo goed mogelijk. <lb n="25" xml:id="l-25" />Steeds</ab>
+<ns1:whiteline /><lb n="25*" xml:id="l-25s" />
+<ab>Uw liefh. broeder</ab><lb n="26" xml:id="l-26" />
+<ab>Vincent</ab>
+<ns1:whiteline /><lb n="27" xml:id="l-27" />
+<ab>Geef ook den Heer Tersteeg het boek <lb n="28" xml:id="l-28" />over Michel ter lezing<c type="kp">_</c></ab>
+<ns1:whiteline /></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>Paris, 4 Sept. 75</ab>
+<ns1:whiteline />
+<ab>My dear Theo,</ab>
+<ab>I’m sending you herewith my letter for <rs key="524" type="pers">Ma</rs>’s birthday,<anchor n="1" xml:id="note-t-1" /> please enclose it with yours. I’ve bought a book about <rs key="1228" type="pers">Michel</rs>, with etchings after his paintings;<anchor n="2" xml:id="note-t-2" /> I’ll send it to you as soon as I’ve finished it. Michel, though, isn’t nearly so beautiful as that landscape described in that passage in Adam Bede,<anchor n="3" xml:id="note-t-3" /> which we both found so moving. <rs key="881" type="pers">Bonington</rs>, 
+    <pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-trans-1v-2" /> too, <hi rend="ital">almost</hi> painted it, and yet that isn’t <hi rend="ital">it</hi> either.</ab>
+<ab rend="indent">When you’ve finished the book I’d like to ask you to give it in my name to <rs key="422" type="pers">Uncle Cor</rs> to read, when you have the opportunity of course, though I’m giving it to you. I see the paintings themselves, so naturally you can have the description and etchings after them.</ab>
+<ab rend="indent">My regards to the <rs key="442 443" type="pers">Haanebeeks</rs>, <rs key="13 41" type="pers">Carbentuses</rs>, <rs key="768 769" type="pers">Van Stockums</rs>, <rs key="323" type="pers">Mauve</rs>, <rs key="642 643" type="pers">Rooses</rs> &amp;c. if the occasion presents itself. I wish you the very best. Ever</ab>
+<ns1:whiteline />
+<ab>Your loving brother</ab>
+<ab>Vincent</ab>
+<ns1:whiteline />
+<ab>Give the book on <rs key="1228" type="pers">Michel</rs> to <rs key="787" type="pers">Mr Tersteeg</rs> to read, too.</ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab><rs key="524" type="pers">Mrs van Gogh</rs> was to turn 56 on 10 September.</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab><rs key="737" type="pers">Alfred Sensier</rs>, <rs key="40" type="lit"><hi rend="ital">Etude sur George Michel</hi></rs>. Paris 1873. This monograph consists of a detailed biography, a <hi rend="ital">catalogue raisonné</hi> and etchings after his paintings. The number of etchings per copy vary in number from seventeen to twenty. <rs key="1228" type="pers">Michel</rs> is described in the biography as an artist of humble birth, who refused to conform to conventional academic art. Sensier emphasizes Michel’s individualism and his aversion to big cities. Cf. in this context Parsons and McWilliam 1983, pp. 39, 49, 53.</ab></note>
+<note n="3" target="#note-t-3" xml:id="n-3">
+
+    <ab>Regarding this passage from <rs key="590" type="pers">George Eliot</rs>’s <rs key="20" type="lit"><hi rend="ital">Adam Bede</hi></rs>, <ref target="let030.xml#n-1">see letter 30, n. 1</ref><ref target="let030.xml#n-2"> and 2.</ref></ab></note></div></body></text></TEI>

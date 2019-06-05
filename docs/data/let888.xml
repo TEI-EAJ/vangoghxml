@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>Theo van Gogh to Vincent van Gogh. Paris, Sunday, 15 June 1890.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let888" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">888</idno>
+<idno type="collectedletters">T37</idno>
+<idno type="brieven1990">892</idno></ns1:letIdentifier><ns1:letHeading><author>Theo van Gogh</author><ns1:addressee>Vincent van Gogh</ns1:addressee><ns1:placeLet>Paris</ns1:placeLet><ns1:dateLet>Sunday, 15 June 1890</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>Theo van Gogh to Vincent van Gogh. Paris, Sunday, 15 June 1890.</p></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b764 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Letter headed: ‘Paris le 15 Juillet 1890’. Theo must have been mistaken about the month, since he responds here to Vincent’s news about the furniture and the order for paint in <ref target="let887.xml">letter 887</ref> of 14 June. The letter could not have been written on 15 July, because the furniture had arrived by then (Van Gogh confirms receipt of the furniture in <ref target="let898.xml">letter 898</ref> of about 10 July), besides which, other topics were occupying them at that time.</p></note>
+<note type="additionalDetail" xml:id="additionalDetail">
+<p>Theo enclosed <ref target="let884.xml">letter 884</ref> from Gauguin.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Theo van Gogh</persName>
+                <date when="1890-06-15">Sunday, 15 June 1890</date>
+                <location>
+                  <placeName>Paris</placeName>
+                  <geo>48.8566101 2.3514992</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Vincent van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 0764" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001001032_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001001032_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001032_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001001032_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001032_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001001032_01_nRf.png" width="380px" /></zone>
+</surface>
+<surface n="b 0764" xml:id="surf-pb-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001001032_02.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001001032_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001032_02_nt.jpg" /><zone xml:id="zone-pb-1v-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001001032_02_nL.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001032_02_nLt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001001032_02_nLf.png" width="380px" /></zone>
+<zone xml:id="zone-pb-1v-3">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001001032_02_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001032_02_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001001032_02_nRf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Paris le 15 Juillet 1890<anchor n="1" xml:id="note-o-1" /></ab>
+<ns1:whiteline /><lb n="2" xml:id="l-2" />
+<ab>Mon cher Vincent,</ab><lb n="3" xml:id="l-3" />
+<ab>Je suis bien content <lb n="4" xml:id="l-4" />que les nouvelles que tu nous donnes <lb n="5" xml:id="l-5" />restent bonnes &amp; que le courage pour le <lb n="6" xml:id="l-6" />travail est loin de t’abandonner.</ab><lb n="7" xml:id="l-7" />
+<ab rend="indent">Tasset doit t’envoyer aujourd’hui les <lb n="8" xml:id="l-8" />couleurs que tu demandes.<anchor n="2" xml:id="note-o-2" /> Tanguy me <lb n="9" xml:id="l-9" />disait l’autre jour que les tubes de <lb n="10" xml:id="l-10" />Tasset étaient bien plus courts &amp; contenaient <lb n="11" xml:id="l-11" />donc moins de couleurs que les siens. Si <lb n="12" xml:id="l-12" />cela était le cas dis le moi, car je pourrai <lb n="13" xml:id="l-13" />faire usage de ceçi pour avoir une reduction 
+<pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-orig-1v-2" /><lb n="14" xml:id="l-14" />sur le prix. Il sera bien plus tranquille <lb n="15" xml:id="l-15" />pour toi quand tes meubles seront arrivés <lb n="16" xml:id="l-16" />aussi pour que tu puisses peut-être trouver <lb n="17" xml:id="l-17" />un camarade à rester<anchor n="a" xml:id="note-o-a" /> avec toi. Il y a <lb n="18" xml:id="l-18" />un Hollandais qui viendra te voir,<anchor n="3" xml:id="note-o-3" /> il était <lb n="19" xml:id="l-19" />recommandé par de Bock<anchor n="4" xml:id="note-o-4" /> qui lui avait recommandé <lb n="20" xml:id="l-20" />Fontainebleau,<anchor n="5" xml:id="note-o-5" /> mais il le trouve pas à son <lb n="21" xml:id="l-21" />gout. Je ne sais pas s’il a du talent, il <lb n="22" xml:id="l-22" />n’avait rien à montrer. Lauzet est <lb n="23" xml:id="l-23" />venu hier matin voir tes tableaux<c type="kk">/</c> il est <lb n="24" xml:id="l-24" />très occupé avec ses Monticelli <lb n="25" xml:id="l-25" />qui vont paraître dans une dizaine de <lb n="26" xml:id="l-26" />jours.<anchor n="6" xml:id="note-o-6" /> Il<anchor n="7" xml:id="note-o-7" /> aime beaucoup le portrait de <lb n="27" xml:id="l-27" />femme que tu as fait à Arles.<anchor n="8" xml:id="note-o-8" /> Pour <lb n="28" xml:id="l-28" />son projet de la Martinique<anchor n="9" xml:id="note-o-9" /> c’est <lb n="29" xml:id="l-29" />peut être bien ce qu’il lui faut, mais <lb n="30" xml:id="l-30" />si cela doit dépendre d’un payement <lb n="31" xml:id="l-31" />à un inventeur<anchor n="10" xml:id="note-o-10" /> cela n’est pas encore 
+<pb f="1v" facs="#zone-pb-1v-3" n="3" xml:id="pb-orig-1v-3" /><lb n="32" xml:id="l-32" />bien sûr. Sous ce pli tu trouveras une <lb n="33" xml:id="l-33" />lettre de lui qu’il me prie de t’envoyer<c type="kp">_</c><anchor n="11" xml:id="note-o-11" /> <lb n="34" xml:id="l-34" />Son séjour chez Schoefenecker<anchor n="12" xml:id="note-o-12" /> ne lui <lb n="35" xml:id="l-35" />fait pas de bien, il n’y travaille presque <lb n="36" xml:id="l-36" />pas tandis que la Bretagne l’inspire<c type="kp">_</c> <lb n="37" xml:id="l-37" />Il est donc bon qu’il parte.</ab><lb n="38" xml:id="l-38" />
+<ab rend="indent">Je te dis bonjour de Jo, il faut que <lb n="39" xml:id="l-39" />je finisse à la hate sans quoi la lettre <lb n="40" xml:id="l-40" />ne partira pas aujourd’hui. Elle est un <lb n="41" xml:id="l-41" />peu indisposée mais j’espère que cela <lb n="42" xml:id="l-42" />ne sera pas grave<c type="kp">_</c></ab><lb n="43" xml:id="l-43" />
+<ab rend="indent">Bonne poignée de mains<c type="kp">_</c></ab>
+<ns1:whiteline /><lb n="44" xml:id="l-44" />
+<ab>Theo</ab>
+<ns1:whiteline />
+<div type="textualNotes">
+<note n="19" target="l-19">lui avait &lt; l’avait</note></div></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>Paris 15 July 1890<anchor n="1" xml:id="note-t-1" /></ab>
+<ns1:whiteline />
+<ab>My dear Vincent,</ab>
+<ab>I’m really pleased that the news you give us remains good, and that the courage for work is far from abandoning you.</ab>
+<ab rend="indent"><rs key="785" type="pers">Tasset</rs> is to send you the colours you ask for today.<anchor n="2" xml:id="note-t-2" /> <rs key="772" type="pers">Tanguy</rs> was telling me the other day that the tubes from Tasset were much shorter and therefore contained less paint than his. If that was the case tell me, for I can make use of that to have a reduction 
+<pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-trans-1v-2" /> in the price. It will be much calmer for you when your furniture has arrived too, so that you may perhaps be able to find a colleague to stay with you. There’s a <rs key="1095" type="pers">Dutchman</rs> who’ll come and see you,<anchor n="3" xml:id="note-t-3" /> he was recommended by <rs key="868" type="pers">De Bock</rs><anchor n="4" xml:id="note-t-4" /> who had recommended Fontainebleau<anchor n="5" xml:id="note-t-5" /> to him, but he doesn’t find it to his taste. I don’t know if he has any talent, he had nothing to show. <rs key="1149" type="pers">Lauzet</rs> came yesterday morning to see your paintings, he’s very busy with his <rs key="1240" type="pers">Monticelli</rs>s, which are going to be published in ten days’ time.<anchor n="6" xml:id="note-t-6" /> He<anchor n="7" xml:id="note-t-7" /> very much likes the portrait of a <rs key="383" type="pers">woman</rs> you did in Arles.<anchor n="8" xml:id="note-t-8" /> It’s perhaps just what he needs for his Martinique project,<anchor n="9" xml:id="note-t-9" /> but if it’s to depend on a payment to an inventor<anchor n="10" xml:id="note-t-10" /> it isn’t yet 
+<pb f="1v" facs="#zone-pb-1v-3" n="3" xml:id="pb-trans-1v-3" /> really certain. Enclosed with this letter you’ll find a letter from him which he asked me to send you.<anchor n="11" xml:id="note-t-11" /> His stay with <rs key="1357" type="pers">Schuffenecker</rs><anchor n="12" xml:id="note-t-12" /> isn’t doing him any good, he’s hardly working at all there, whereas Brittany inspires him. So it’s good that he’s leaving.</ab>
+<ab rend="indent">I give you <rs key="416" type="pers">Jo</rs>’s regards, I must finish in haste, otherwise the letter won’t go off today. She’s a little indisposed, but I hope that it won’t be anything serious.</ab>
+<ab rend="indent">Good handshake.</ab>
+<ns1:whiteline />
+<ab>Theo</ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>Theo is mistaken; it must be 15 June 1890 (see <hi rend="ital">Date</hi>).</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab>Van Gogh had placed this order for paint in <ref target="let887.xml">letter 887</ref>.</ab></note>
+<note n="a" target="#note-o-a" xml:id="n-a">
+<ab>Read: ‘séjourner’.</ab></note>
+<note n="3" target="#note-t-3" xml:id="n-3">
+<ab>This Dutchman was <rs key="1095" type="pers">Anton Hirschig</rs>; cf. <ref target="let902.xml#l-54">letter 902, l. 54</ref>.</ab></note>
+<note n="4" target="#note-t-4" xml:id="n-4">
+<ab>This refers to <rs key="868" type="pers">Théophile de Bock</rs>.</ab></note>
+    <note n="5" target="#note-t-5" xml:id="n-5">
+<ab>For <rs key="1149" type="pers">Lauzet</rs>’s publication <hi rend="ital"><rs key="517" type="lit">Adolphe Monticelli</rs></hi>, <ref target="let825.xml#n-7">see letter 825, n. 7.</ref></ab></note>
+<note n="6" target="#note-t-6" xml:id="n-6">
+<ab>The painters of the Barbizon School, among others, had worked in the artists’ village of Fontainebleau.</ab></note>
+<note n="7" target="#note-t-7" xml:id="n-7">
+<ab>Strictly speaking, Theo could be referring here to either <rs key="1149" type="pers">Lauzet</rs> or <rs key="1039" type="pers">Gauguin</rs>, to whom the rest of the paragraph refers. Vincent assumed that Theo was talking about Lauzet (<ref target="RM23.xml#l-57">cf. RM23, ll. 57-59</ref>). We think it most likely that ‘Il’ refers to Gauguin.</ab></note>
+<note n="8" target="#note-t-8" xml:id="n-8">
+<ab>If ‘did in Arles’ <ref target="#l-27">(l. 27)</ref> is to be taken literally, Theo is referring to <hi rend="ital">Marie Ginoux (‘The Arlésienne’)</hi> (<rs key="2744" type="ill">F 489 / JH 1625</rs>). However, during this period the correspondence constantly refers to the second series of <rs key="383" type="pers">Arlésienne</rs>s that Van Gogh painted in Saint-Rémy. Assuming that Theo meant <rs key="1039" type="pers">Gauguin</rs> when he wrote ‘Il’ (<ref target="#n-7">see n. 7</ref>), this must refer to the portrait Gauguin received: <hi rend="ital">Marie Ginoux (‘The Arlésienne’) </hi>(<rs key="2893" type="ill">F 542 / JH 1894</rs>). Cf. also <ref target="let884.xml#n-2">letter 884, n. 2.</ref></ab></note>
+<note n="9" target="#note-t-9" xml:id="n-9">
+<ab>Theo means Madagascar; <ref target="#n-11">see n. 11</ref> below.</ab></note>
+<note n="10" target="#note-t-10" xml:id="n-10">
+<ab>This ‘inventor’ was a certain <rs key="1856" type="pers">Charlopin</rs>. The ‘payment’ mentioned by Theo, on which <rs key="1039" type="pers">Gauguin</rs>’s project supposedly depended, was the money that Charlopin was meant to receive for an invention he had sold. Gauguin wanted to sell him 38 paintings and 5 ceramic pieces for 5,000 francs, hoping in this way to fund his voyage to the tropics. This emerges from a lost letter from Gauguin to Theo of 30 or 31 May 1890 (quoted in part in <hi rend="ital">Gauguin lettres</hi> 1983, p. 183, n. 3). Gauguin’s plan came to nothing.</ab></note>
+<note n="11" target="#note-t-11" xml:id="n-11">
+<ab>This was <rs key="1039" type="pers">Gauguin</rs>’s <ref target="let884.xml">letter 884</ref>, in which he wrote about his impending departure for Brittany and his plans to go to Madagascar.</ab></note>
+<note n="12" target="#note-t-12" xml:id="n-12">
+<ab>When he returned to Paris at the beginning of February 1890, <rs key="1039" type="pers">Gauguin</rs> moved in with <rs key="1357" type="pers">Emile Schuffenecker</rs>, 12 rue Durand-Claye. See exhib. cat. Washington 1988, p. 48.</ab></note></div></body></text></TEI>

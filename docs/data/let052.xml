@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Theo van Gogh. Paris, Wednesday, 29 September 1875.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let052" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">052</idno>
+<idno type="collectedletters">39a</idno>
+<idno type="brieven1990">051</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Theo van Gogh</ns1:addressee><ns1:placeLet>Paris</ns1:placeLet><ns1:dateLet>Wednesday, 29 September 1875</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Theo van Gogh. Paris, Wednesday, 29 September 1875.</p></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b51 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Letter headed: ‘Parijs 29 Sept. 1875’.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1875-09-29">Wednesday, 29 September 1875</date>
+                <location>
+                  <placeName>Paris</placeName>
+                  <geo>48.8566101 2.3514992</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Theo van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+    <surface n="b 0051" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001000054_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000054_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000054_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000054_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000054_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000054_01_nRf.png" width="380px" /></zone>
+<zone xml:id="zone-pb-1r-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000054_01_nL.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000054_01_nLt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000054_01_nLf.png" width="380px" /></zone>
+</surface>
+<surface n="b 0051" xml:id="surf-pb-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001000054_02.TIF" /><zone xml:id="zone-pb-1v-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000054_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000054_02_nt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000054_02_nf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Parijs 29 Sept. 1875</ab>
+<ns1:whiteline /><lb n="2" xml:id="l-2" />
+<ab>Waarde Theo,</ab><lb n="3" xml:id="l-3" />
+<ab>Jongen pas op, verlies Uw veerkracht niet.–<anchor n="1" xml:id="note-o-1" /></ab><lb n="4" xml:id="l-4" />
+<ab rend="indent">Zie de dingen zoo als zij zijn en vind, voor u zelven, <lb n="5" xml:id="l-5" />niet alles goed.–</ab><lb n="6" xml:id="l-6" />
+<ab rend="indent">Men kan afwijken, zoowel ter linker als ter rechterhand.<anchor n="2" xml:id="note-o-2" /> <lb n="7" xml:id="l-7" />Denk aan wat Pa ook U wel eens zal gezegd hebben: <lb n="8" xml:id="l-8" /><hi rend="ital">verstand</hi> en gevoel moeten samen gaan.–</ab><lb n="9" xml:id="l-9" />
+<ab rend="indent">Hartelijk gegroet &amp; steeds</ab>
+<ns1:whiteline /><lb n="10" xml:id="l-10" />
+<ab>Uw liefh. broeder</ab><lb n="11" xml:id="l-11" />
+<ab>Vincent</ab>
+<ns1:whiteline /><lb n="12" xml:id="l-12" />
+<ab>Schrijf weer eens spoedig.–</ab>
+<ns1:whiteline />
+<pb f="1r" facs="#zone-pb-1r-2" n="2" xml:id="pb-orig-1r-2" /><lb n="13" xml:id="l-13" />
+<ab>Ik heb U aangeraden wat veel uit te gaan <lb n="14" xml:id="l-14" />maar bevalt U dat niet, doe het dan niet. <lb n="15" xml:id="l-15" />Gij weet wel ik ook zoo heel veel niet uitging <lb n="16" xml:id="l-16" />en men daar dikwijls aanmerking op maakte.</ab><lb n="17" xml:id="l-17" />
+<ab rend="indent">Wat zou ik gaarne willen wij eens zamen <lb n="18" xml:id="l-18" />konden ontbijten of een kop chocolade drinken <lb n="19" xml:id="l-19" />op mijne kamer. Houd U goed kerel<c type="kp">_</c> <lb n="20" xml:id="l-20" />Trek u de dingen, die U eigentlijk van zoo <lb n="21" xml:id="l-21" />heel nabij niet raken, niet <hi rend="ital">al</hi> te sterk <lb n="22" xml:id="l-22" />aan, en neem ze niet <hi rend="ital">al</hi> te zwaar op<c type="kp">_</c> <lb n="23" xml:id="l-23" />Hoe is het met het brood eten, hebt gij dat <lb n="24" xml:id="l-24" />al eens geprobeerd? In haast druk ik <lb n="25" xml:id="l-25" />U hartelijk de hand, in gedachten.–</ab>
+<ns1:whiteline /></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>Paris, 29 Sept. 1875</ab>
+<ns1:whiteline />
+<ab>My dear Theo,</ab>
+<ab>Be careful, old boy, don’t lose your resilience.<anchor n="1" xml:id="note-t-1" /></ab>
+<ab rend="indent">See things as they are, and, for yourself, don’t think everything good.</ab>
+<ab rend="indent">One can deviate, both to the left hand and to the right hand.<anchor n="2" xml:id="note-t-2" /> Remember what <rs key="526" type="pers">Pa</rs> no doubt once told you too: <hi rend="ital">understanding</hi> and feeling must go together.</ab>
+<ab rend="indent">Warm regards and ever,</ab>
+<ns1:whiteline />
+<ab>Your loving brother</ab>
+<ab>Vincent</ab>
+<ns1:whiteline />
+    <ab>Write again soon.</ab><ns1:whiteline />
+<pb f="1r" facs="#zone-pb-1r-2" n="2" xml:id="pb-trans-1r-2" />
+<ab>I advised you to go out quite a lot, but if you don’t like it, don’t do it. You know that I didn’t go out so very much either, and that people often remarked upon it.</ab>
+<ab rend="indent">How much I’d like for us to be able to breakfast together or drink a cup of chocolate in my room. Keep well, old chap. Don’t take things that don’t concern you directly <hi rend="ital">too</hi> much to heart, and don’t let them weigh upon you <hi rend="ital">too</hi> heavily. How is it going, eating bread? Have you tried it yet? In haste, I shake your hand heartily in thought.</ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>Theo was depressed. <rs key="1633" type="pers">Willem Laurens Kiehl</rs> – who, like Theo, boarded with <rs key="642 643" type="pers">the Rooses</rs> – had died on 22 September. <rs key="526" type="pers">Mr van Gogh</rs> wrote to Theo on 25 September: ‘We are hard hit by the news of Kiehl’s death. I can imagine that you’re very conscious of it and feel it deeply. You lived with him for a fairly long time. How that Miss Roos will have taken care of him faithfully. Dying pathetically. So young. With a life behind him that was not easy, missing much of what others experience of love from their close relations’ (FR b2363).</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab>Cf. <ns1:bibleref book="Num" chap="20" v="17">Num. 20:17</ns1:bibleref>, <ns1:bibleref book="Deut" chap="28" v="14">Deut. 28:14</ns1:bibleref> and <ns1:bibleref book="Isa" chap="30" v="21">Isa. 30:21</ns1:bibleref>.</ab></note></div></body></text></TEI>

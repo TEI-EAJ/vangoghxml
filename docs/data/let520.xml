@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Anthon van Rappard. Nuenen, between about Tuesday, 21 and Friday, 24 July 1885.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let520" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">520</idno>
+<idno type="collectedletters">R56</idno>
+<idno type="brieven1990">520</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Anthon van Rappard</ns1:addressee><ns1:placeLet>Nuenen</ns1:placeLet><ns1:dateLet>between about Tuesday, 21 and Friday, 24 July 1885</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Anthon van Rappard. Nuenen, between about Tuesday, 21 and Friday, 24 July 1885.</p>
+<note n="1" type="ongoingTopic">
+<p>Van Rappard’s reaction to the lithograph of <hi rend="ital">The potato eaters</hi> <ref target="let503.xml">(503)</ref></p></note></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b8388 V/2006</p></note>
+<note type="date" xml:id="date">
+<p>Van Gogh is still waiting for Van Rappard’s reply to <ref target="let517.xml">letter 517</ref>, and says ‘once more’ that unpleasant as he finds the disagreement which has arisen, he is nonetheless willing to regard it as a ‘misunderstanding’ <ref target="#l-8">(l. 8)</ref> which it must be possible to put right. He now urges him to come to a decision about their friendship, which has to be taken ‘this week’ <ref target="#l-13">(l. 13)</ref>. From the next letter to Van Rappard, which was written on 27 July, it appears that Van Gogh wants to patch up the quarrel – this must have been in response to Van Rappard’s reply. We have therefore dated the letter between about Tuesday, 21 and Friday, 24 July 1885. Cf. <ref target="let522.xml">letter 522</ref>, <hi rend="ital">Date</hi>.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                
+                <location>
+                  <placeName>Nuenen</placeName>
+                  <geo>51.470843 5.5506822</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Anthon van Rappard</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 8388" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001001650_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001001650_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001650_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001001650_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001650_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001001650_01_nRf.png" width="380px" /></zone>
+</surface><surface n="b 8388 V/2006" xml:id="surf-extra-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001001650_02.TIF" /><zone xml:id="zone-extra-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001001650_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001650_02_nt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001001650_02_nf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Amice Rappard,</ab><lb n="1*" xml:id="l-1s" />
+<ab>Tot mijn leedwezen merk ik <lb n="2" xml:id="l-2" />tot heden niet van Uw antwoord<c type="kp">_</c>– Hoe meer ik er <lb n="3" xml:id="l-3" />over nadenk<c type="kk">/</c> hoe meer ik er volstrekt niet tegen <lb n="4" xml:id="l-4" />op zie mijnerzijds te coupeeren<c type="kk">/</c> tenzij ge ten <lb n="5" xml:id="l-5" />eenemale eene correspondentie terugneemt <lb n="6" xml:id="l-6" />die U zelf – naar mijn meening – niet tot eer <lb n="7" xml:id="l-7" />strekt. Ik zeg echter nog eens<c type="kk">/</c> ik wil <lb n="8" xml:id="l-8" />de heele kwestie als een misvatting beschouwen <lb n="9" xml:id="l-9" />en niets veranderen aan de vriendschap<c type="kp">_</c></ab><lb n="10" xml:id="l-10" />
+<ab rend="indent">Maar uitdrukkelijk op voorwaarde ge zelf <lb n="11" xml:id="l-11" />inziet – dat ge U vergist hebt<c type="kp">_</c>– <lb n="12" xml:id="l-12" />Daar ik in geen geval het slepende wil <lb n="13" xml:id="l-13" />houden<c type="kk">/</c> verzoek ik U deze week nog me <lb n="14" xml:id="l-14" />te antwoorden. En zal dan naarmate van uw schrijven weten <lb n="14a" xml:id="l-14a" />te beslissen.–</ab><lb n="15" xml:id="l-15" />
+<ab rend="indent">Gebeurt het deze week niet dat ge schrijft – <hi rend="ital">zoo begeer ik Uw antwoord niet</hi> <lb n="16" xml:id="l-16" /><hi rend="ital">meer</hi><c type="kp">_</c>– En moet de tijd maar uitmaken <lb n="17" xml:id="l-17" />of Uwe aanmerkingen op mijn werk en op <lb n="18" xml:id="l-18" />mijn persoon al dan niet gemotiveerd – al <lb n="19" xml:id="l-19" />dan niet te goeder trouw – blijken zullen.</ab><lb n="20" xml:id="l-20" />
+<ab rend="indent">Na groete</ab>
+<ns1:whiteline /><lb n="21" xml:id="l-21" />
+<ab>Vincent</ab>
+<ns1:whiteline /></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>My dear friend <rs key="1306" type="pers">Rappard</rs>,</ab>
+<ab>To my regret I’ve still not had your reply as of today. The more I think about it, the more I, for my part, really do not mind cutting off relations unless you take back once and for all a communication which — in my view — does you no credit. However, I say once more that I’m willing to regard the whole question as a misunderstanding and change nothing in the friendship.</ab>
+<ab rend="indent">But expressly on condition that you yourself realize — that you’ve made a mistake. Since on no account do I want to keep it dragging on, I ask you to answer me this week. And then, according to your letter, will know what to decide.</ab>
+<ab rend="indent">Should you not write this week — <hi rend="ital">then I will no longer desire your answer</hi>. And time will just have to tell whether your comments on my work and on my person will prove to be justified or not — in good faith or not.</ab>
+<ab rend="indent">Sincerely, </ab>
+<ns1:whiteline />
+<ab>Vincent</ab></div>
+<div type="notes" /></body></text></TEI>
