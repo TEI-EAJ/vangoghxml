@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Caroline van Stockum-Haanebeek. London, Thursday, 20 November 1873.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let016" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">016</idno>
+<idno type="collectedletters">12a</idno>
+<idno type="brieven1990">016</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Caroline van Stockum-Haanebeek</ns1:addressee><ns1:placeLet>London</ns1:placeLet><ns1:dateLet>Thursday, 20 November 1873</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Caroline van Stockum-Haanebeek. London, Thursday, 20 November 1873.</p>
+<note n="1" type="ongoingTopic">
+<p>Theo’s transfer to The Hague <ref target="let013.xml">(13)</ref></p></note></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b33 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Letter headed: ‘Londen 20 Nov. 1873.’</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1873-11-20">Thursday, 20 November 1873</date>
+                <location>
+                  <placeName>London</placeName>
+                
+      <geo>51.5073219 -0.1276474</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Caroline van Stockum-Haanebeek</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 0033" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001000035_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000035_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000035_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000035_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000035_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000035_01_nRf.png" width="380px" /></zone>
+</surface>
+<surface n="b 0033" xml:id="surf-pb-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001000035_02.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000035_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000035_02_nt.jpg" /><zone xml:id="zone-pb-1v-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000035_02_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000035_02_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000035_02_nRf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Londen 20 Nov. 1873.</ab>
+<ns1:whiteline /><lb n="2" xml:id="l-2" />
+<ab>Lieve Carolien,</ab><lb n="3" xml:id="l-3" />
+<ab>Hartelijk geluk<c type="shy">-</c><lb n="4" xml:id="l-4" />gewenscht met je verjaardag;<anchor n="1" xml:id="note-o-1" /> <lb n="5" xml:id="l-5" />het zal een feestelijken dag <lb n="6" xml:id="l-6" />zijn, die eerste verjaardag in <lb n="7" xml:id="l-7" />je eigen huis.─<anchor n="2" xml:id="note-o-2" /> Ik hoop <lb n="8" xml:id="l-8" />dit een heel goed &amp; gelukkig <lb n="9" xml:id="l-9" />jaar voor Ulieden zijn zal.─</ab><lb n="10" xml:id="l-10" />
+<ab rend="indent">Mijn laatsten brief hebt <lb n="11" xml:id="l-11" />ge hoop ik ontvangen, schrijf <lb n="12" xml:id="l-12" />eens spoedig hoe allen het <lb n="13" xml:id="l-13" />maken; ik ben weer verlangend 
+<pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-orig-1v-2" /><lb n="14" xml:id="l-14" />om wat te hooren.─</ab><lb n="15" xml:id="l-15" />
+<ab rend="indent">Hebt ge Theo al gezien, ik hoorde <lb n="16" xml:id="l-16" />hij l.l. Woensdag te s’Hage ge<c type="shy">-</c><lb n="17" xml:id="l-17" />arriveerd is.─</ab><lb n="18" xml:id="l-18" />
+<ab rend="indent">Hierbij eene kleine bijdrage <lb n="19" xml:id="l-19" />voor het album.─<anchor n="3" xml:id="note-o-3" /></ab><lb n="20" xml:id="l-20" />
+<ab rend="indent">Mij gaat het goed, maar ik <lb n="21" xml:id="l-21" />zit tot over de ooren in ’t werk, <lb n="22" xml:id="l-22" />&amp; heb maar een oogenblikje <lb n="23" xml:id="l-23" />tijd.─</ab><lb n="24" xml:id="l-24" />
+<ab rend="indent">Zeg allen in de Poten<anchor n="4" xml:id="note-o-4" /> goe<c type="shy">-</c><lb n="25" xml:id="l-25" />den dag; wat zou ik van<c type="shy">-</c><lb n="26" xml:id="l-26" />daag graag eens een kijkje <lb n="27" xml:id="l-27" />bij ulieden willen nemen; <lb n="28" xml:id="l-28" />Het beste Ul. toegewenscht.</ab>
+<ns1:whiteline /><lb n="29" xml:id="l-29" />
+<ab>Yours truly</ab><lb n="30" xml:id="l-30" />
+<ab>Vincent.</ab>
+<ns1:whiteline /></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>London, 20 Nov. 1873.</ab>
+<ns1:whiteline />
+<ab>Dearest <rs key="761" type="pers">Caroline</rs>,</ab>
+  <ab>I wish you many happy returns;<anchor n="1" xml:id="note-t-1" /> it will surely be a festive day, this first birthday in your own house.<anchor n="2" xml:id="note-t-2" /> I hope that this will be a very good and happy year for you both.</ab>
+<ab rend="indent">You’ve received my last letter, I hope. Write soon with news of how everyone is doing. I’m longing 
+<pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-trans-1v-2" /> to hear something again.</ab>
+<ab rend="indent">Have you seen Theo yet? I heard that he arrived in The Hague last Wednesday.</ab>
+<ab rend="indent">Herewith a small contribution for the album.<anchor n="3" xml:id="note-t-3" /></ab>
+<ab rend="indent">I’m fine, but I’m up to my ears in work, and only have a moment.</ab>
+<ab rend="indent">Bid good-day to everyone in the Poten;<anchor n="4" xml:id="note-t-4" /> how I’d like to look in on you today. I wish you both the best.</ab>
+<ns1:whiteline />
+<ab>Yours truly,</ab>
+<ab>Vincent.</ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab><rs key="761" type="pers">Caroline</rs> was to turn 21 on 22 November 1873.</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab>
+  <ref target="let010.xml#n-2">See letter 10, n. 2.</ref>
+</ab></note>
+<note n="3" target="#note-t-3" xml:id="n-3">
+<ab>Reproductions for Caroline’s scrapbook. Cf. <ref target="let014.xml">letter 14</ref>.</ab></note>
+<note n="4" target="#note-t-4" xml:id="n-4">
+<ab>Lange Poten 10 in The Hague, Caroline’s parental home.</ab></note></div></body></text></TEI>

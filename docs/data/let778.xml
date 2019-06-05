@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Joseph Ginoux to Vincent van Gogh. Arles, Friday, 31 May 1889.</title>
+    
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+    <publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let778" /></publicationStmt>
+    <sourceDesc>
+      <ns1:letDesc>
+        <ns1:letIdentifier>
+          <idno type="jlb">778</idno>
+          <idno type="collectedletters">-</idno>
+          <idno type="brieven1990">-</idno>
+        </ns1:letIdentifier>
+        <ns1:letHeading>
+          <author>Joseph Ginoux</author>
+          <ns1:addressee>Vincent van Gogh</ns1:addressee>
+          <ns1:placeLet>Arles</ns1:placeLet>
+          <ns1:dateLet>Friday, 31 May 1889</ns1:dateLet>
+        </ns1:letHeading>
+        <ns1:letContents>
+          <p>Joseph Ginoux to Vincent van Gogh. Arles, Friday, 31 May 1889.</p>
+        </ns1:letContents>
+        <note type="sourceStatus" xml:id="sourceStatus">
+          <p>Carbon copy of typed transcription (archives of the Vincent van Gogh Foundation). Amsterdam, Van Gogh Museum, inv. no. b6616 V/1996
+          </p>
+        </note>
+        <note type="location" xml:id="location">
+          <p>Original: unknown</p>
+        </note>
+        <note type="date" xml:id="date">
+          <p>Letter headed: ‘Arles, le 31 Mai 1889’.</p>
+        </note>
+        <note type="additionalDetail" xml:id="additionalDetail">
+          <p>This letter is known only as a carbon copy of a typed transcription; it is kept in the archives of the Vincent van Gogh Foundation. The location of the original manuscript is not
+            known, nor are the circumstances in which the copy was made.</p>
+          <p>Jansen 1998</p>
+        </note>
+      </ns1:letDesc>
+    </sourceDesc>
+  </fileDesc>
+<profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Joseph Ginoux</persName>
+                <date when="1889-05-31">Friday, 31 May 1889</date>
+                <location>
+                  <placeName>Arles</placeName>
+                  <geo>43.6776223 4.6309653</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Vincent van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+  <surface n="b 6616" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="778_1r.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="778_1rt.jpg" /><graphic mimeType="image/png" rend="facstab" url="778_1rf.png" width="380px" /></zone>
+</surface>
+</facsimile>
+<text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Café de la gare</ab><lb n="2" xml:id="l-2" />
+<ab>Joseph Ginoux</ab><lb n="3" xml:id="l-3" />
+<ab>Arles s/Rhone.</ab>
+<ns1:whiteline /><lb n="4" xml:id="l-4" />
+<ab>Arles, le 31 Mai 1889.</ab>
+<ns1:whiteline /><lb n="5" xml:id="l-5" />
+<ab>Cher Monsieur Vincent,</ab><lb n="6" xml:id="l-6" />
+<ab>Nous avons été très heureux d’apprendre que vous vous portiez <lb n="7" xml:id="l-7" />bien et que l’air de St. Remy vous était favorable.</ab><lb n="8" xml:id="l-8" />
+<ab rend="indent">Nous comprenons que vous vous trouviez bien et que dans les environs <lb n="9" xml:id="l-9" />de votre nouvelle residence qui n’est que provisoire, vous <lb n="10" xml:id="l-10" />trouveriez des distractions et des sujets pour votre art.</ab><lb n="11" xml:id="l-11" />
+<ab rend="indent">J’ai fait faire un joli cadre comme nous en étions convenu, en <lb n="12" xml:id="l-12" />noyer et irréprochable.<anchor n="1" xml:id="note-o-1" /> Je l’ai remis à M. L’économe.<anchor n="2" xml:id="note-o-2" /></ab><lb n="13" xml:id="l-13" />
+<ab rend="indent">J’ai donné de vos nouvelles à tous ceux qui vous connaissent <lb n="14" xml:id="l-14" />et tout le monde a été enchanté, d’apprendre que votre santé <lb n="15" xml:id="l-15" />était bonne et nous espérons que sous peu nous aurons le plaisir <lb n="16" xml:id="l-16" />de nous voir et en attendant je vous prie d’agréer<c type="kk">/</c> bien cher Mon<c type="shy">-</c><lb n="17" xml:id="l-17" />sieur<c type="kk">/</c> de moi et de Madame Ginoux, l’assurance de nos meilleurs <lb n="18" xml:id="l-18" />sentiments.</ab>
+<ns1:whiteline /><lb n="19" xml:id="l-19" />
+<ab>Jh. Ginoux. </ab>
+<ns1:whiteline />
+<div type="textualNotes">
+<note n="8" target="l-8">dans les &lt; les</note>
+<note n="9" target="l-9">n’est &lt; n’ait</note>
+<note n="11" target="l-11">convenu &lt; couvenu</note>
+<note n="12" target="l-12">remis &lt; renvis</note>
+<note n="15" target="l-15">sous peu &lt; vous peu</note></div></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>Arles, 31 May 1889.</ab>
+<ns1:whiteline />
+<ab>Dear Mr Vincent,</ab>
+<ab>We were very pleased to learn that you are doing well and that the air of St-Rémy has done you good.</ab>
+<ab rend="indent">We understand that you are feeling well, and that the surroundings of your new residence, which is only temporary, will distract you and provide subjects for your art.</ab>
+<ab rend="indent">I have had a fine frame made as we had agreed, in walnut and impeccable.<anchor n="1" xml:id="note-t-1" /> I delivered it to the <rs key="109" type="pers">bursar</rs>.<anchor n="2" xml:id="note-t-2" /></ab>
+<ab rend="indent">I have told everyone who knows you how you are, and everyone was glad to learn that you are in good health, and we hope to have the pleasure of seeing you soon, in anticipation of which <rs key="383" type="pers">Mrs Ginoux</rs> and I send you our best regards.</ab>
+<ns1:whiteline />
+<ab><rs key="382" type="pers">Joseph Ginoux</rs>.</ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>Because <rs key="382" type="pers">Ginoux</rs> says that he has delivered the frame to the hospital bursar, it is not likely that this frame was intended for one of the paintings still in Arles, since these were being stored at Ginoux’s (cf. <ref target="let760.xml">letter 760</ref>). It is more reasonable to assume that the frame was made for a work that Van Gogh had given to his doctor,<rs key="637" type="pers"> Félix Rey</rs>. Rey, at any rate, is the only hospital employee known to have received work from Van Gogh. He owned his portrait, <hi rend="ital">Félix Rey </hi>(<rs key="2766" type="ill">F 500 / JH 1659</rs>); <ref target="let736.xml">see letter 736</ref>. According to Rey, he was also given the ‘Spitalgarten’ (hospital garden) (presumably <hi rend="ital">The courtyard of the hospital in Arles </hi>(<rs key="2783" type="ill">F 519 / JH 1687</rs>) and the ‘Krankenstube mit dem Selbstbildnis des Malers’ (patients’ sitting room with a self-portrait of the painter) (this probably refers to <hi rend="ital">Ward in the hospital </hi>(<rs key="2782" type="ill">F 646 / JH 1686</rs>), though this painting was never in his possession). See Max Braumann, ‘Beim Freunden Van Goghs in Arles: Reiserinnerungen’, <hi rend="ital">Kunst und Künstler</hi> 26 (1928), p. 452. It was previously assumed that the frame was intended for <hi rend="ital">Avenue of chestnut trees in blossom </hi>(<rs key="2785" type="ill">F 517 / JH 1689</rs>), but that was stored at Ginoux’s and subsequently rolled up and sent to Theo; <ref target="let789.xml">see letter 789</ref> and cf. Jansen 1998, p. 65.</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab>The hospital bursar was <rs key="109" type="pers">Marius Huard</rs> (<hi rend="ital">L’indicateur marseillais </hi>1889).</ab></note></div></body></text></TEI>

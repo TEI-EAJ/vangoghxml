@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Theo van Gogh. Arles, Friday, 4 January 1889.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let729" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">729</idno>
+<idno type="collectedletters">566</idno>
+<idno type="brieven1990">734</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Theo van Gogh</ns1:addressee><ns1:placeLet>Arles</ns1:placeLet><ns1:dateLet>Friday, 4 January 1889</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Theo van Gogh. Arles, Friday, 4 January 1889.</p>
+<note n="1" type="ongoingTopic">
+<p>Gauguin’s departure from Arles <ref target="let728.xml">(728)</ref></p></note>
+<note n="2" type="ongoingTopic">
+<p>Vincent’s first crisis and hospitalization <ref target="let728.xml">(728)</ref></p></note>
+<note n="3" type="ongoingTopic">
+<p>Theo’s journey to Arles <ref target="let728.xml">(728)</ref></p></note>
+<note n="4" type="ongoingTopic">
+<p>Theo’s engagement and marriage to Jo Bonger <ref target="let728.xml">(728)</ref></p></note></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b613 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>The letter was written when Van Gogh was allowed to leave the hospital for a few hours and went to the Yellow House (<ref target="#l-7">ll. 7-11</ref>, <ref target="#l-40">40-42</ref>). This was on Friday, 4 January 1889, as evidenced by a letter Joseph Roulin sent on this day to Theo (FR b1068).</p></note>
+<note type="arrangement" xml:id="arrangement">
+<p>Previously the two letters, the one to Theo and the one to Gauguin, were included under one number. Here we have separated them. For the second letter, see <ref target="let730.xml">730</ref>.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1889-01-04">Friday, 4 January 1889</date>
+                <location>
+                  <placeName>Arles</placeName>
+                
+      <geo>43.6776223 4.6309653</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Theo van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 0613" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001000834_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000834_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000834_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000834_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000834_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000834_01_nRf.png" width="380px" /></zone>
+</surface>
+<surface n="b 0613" xml:id="surf-pb-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001000834_02.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000834_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000834_02_nt.jpg" /><zone xml:id="zone-pb-1v-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000834_02_nL.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000834_02_nLt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000834_02_nLf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Mon cher frère</ab><lb n="2" xml:id="l-2" />
+<ab>J’espère que Gauguin <lb n="3" xml:id="l-3" />te rassurera completement <lb n="4" xml:id="l-4" />aussi un peu pour les affaires <lb n="5" xml:id="l-5" />de la peinture.</ab><lb n="6" xml:id="l-6" />
+<ab rend="indent">Je compte bientot reprendre le <lb n="7" xml:id="l-7" />travail.</ab><lb n="8" xml:id="l-8" />
+<ab rend="indent">La femme de ménage et mon <lb n="9" xml:id="l-9" />ami Roulin avaient pris soin <lb n="10" xml:id="l-10" />de la maison<c type="kk">/</c> avaient tout <lb n="11" xml:id="l-11" />mis en bon ordre.<anchor n="1" xml:id="note-o-1" /></ab><lb n="12" xml:id="l-12" />
+<ab rend="indent">Lorsque je sortirai je pourrai <lb n="13" xml:id="l-13" />reprendre mon petit chemin <lb n="14" xml:id="l-14" />ici et bientôt la belle saison <lb n="15" xml:id="l-15" />va venir et je recommencerai <lb n="16" xml:id="l-16" />les vergers en fleurs.<anchor n="2" xml:id="note-o-2" /></ab><lb n="17" xml:id="l-17" />
+<ab rend="indent">Je suis<c type="kk">/</c> mon cher frère<c type="kk">/</c> si <hi rend="ital">navré</hi> <lb n="18" xml:id="l-18" />de ton voyage<c type="kk">/</c> j’eusse désiré <lb n="19" xml:id="l-19" />que cela t’eût été épargné car <lb n="20" xml:id="l-20" />en somme aucun mal ne m’est <lb n="21" xml:id="l-21" />arrivé et il n’y avait pas de quoi 
+<pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-orig-1v-2" /><lb n="22" xml:id="l-22" />te déranger<c type="kp">_</c></ab><lb n="23" xml:id="l-23" />
+<ab rend="indent">Je ne saurais te dire combien <lb n="24" xml:id="l-24" />cela me rejouit que tu aie <lb n="25" xml:id="l-25" />fait la paix et même plus <lb n="26" xml:id="l-26" />que cela avec les Bonger<c type="kp">_</c> <lb n="27" xml:id="l-27" />Dis cela de ma part à André <lb n="28" xml:id="l-28" />et serre lui la main bien <lb n="29" xml:id="l-29" />cordialement pour moi<c type="kp">_</c><anchor n="3" xml:id="note-o-3" /></ab><lb n="30" xml:id="l-30" />
+<ab rend="indent">Que n’aurais je pas donné <lb n="31" xml:id="l-31" />pour que tu eusses vu Arles <lb n="32" xml:id="l-32" />lorsqu’il y fait beau<c type="kk">/</c> maintenant <lb n="33" xml:id="l-33" />tu l’as vu en noir<c type="kp">_</c></ab><lb n="34" xml:id="l-34" />
+<ab rend="indent">Bon courage cependant<c type="kk">/</c> adresse <lb n="35" xml:id="l-35" />les lettres directement à moi<c type="kk">/</c> Place <lb n="36" xml:id="l-36" />Lamartine 2. J’enverrai à Gauguin <lb n="37" xml:id="l-37" />ses tableaux restés à la maison aussitôt <lb n="38" xml:id="l-38" />qu’il le désirera<c type="kp">_</c> Nous lui devons les <lb n="39" xml:id="l-39" />dépenses faites par lui pour les meubles<c type="kp">_</c><anchor n="4" xml:id="note-o-4" /></ab><lb n="40" xml:id="l-40" />
+<ab rend="indent">Poignée de main<c type="kk">/</c> je dois encore rentrer <lb n="41" xml:id="l-41" />à l’hôpital mais sous peu j’en sortirai <lb n="42" xml:id="l-42" />tout à fait<c type="kp">_</c></ab>
+<ns1:whiteline /><lb n="43" xml:id="l-43" />
+<ab>t<c type="kp">_</c> à t<c type="kp">_</c></ab><lb n="44" xml:id="l-44" />
+<ab>Vincent</ab>
+<ns1:whiteline /><lb n="45" xml:id="l-45" />
+<ab>Ecris aussi un mot à la mère de ma part<c type="kk">/</c> <lb n="46" xml:id="l-46" />que personne ne se fasse des inquietudes<c type="kp">_</c>–<anchor n="5" xml:id="note-o-5" /></ab>
+<ns1:whiteline /></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>My dear brother</ab>
+<ab>I hope that <rs key="1039" type="pers">Gauguin</rs> will also completely reassure you a little regarding painting matters.</ab>
+<ab rend="indent">I expect to start work again soon.</ab>
+<ab rend="indent">The charwoman and my friend <rs key="647" type="pers">Roulin</rs> had taken care of the house, put everything in good order.<anchor n="1" xml:id="note-t-1" /></ab>
+<ab rend="indent">When I come out I’ll be able to continue on my way here again, and soon the fine days will come and I’ll start on the orchards in blossom again.<anchor n="2" xml:id="note-t-2" /></ab>
+<ab rend="indent">I am, my dear brother, so <hi rend="ital">heartbroken </hi>by your journey, I would have wished that you’d been spared that, for all in all no harm has come to me, and it wasn’t worth 
+<pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-trans-1v-2" /> troubling you.</ab>
+<ab rend="indent">I can’t tell you how much it delights me that you’ve made peace and even more than that with <rs key="282 283" type="pers">the Bongers</rs>. Say so on my behalf to André, and give him a very cordial handshake from me.<anchor n="3" xml:id="note-t-3" /></ab>
+<ab rend="indent">What wouldn’t I have given for you to see Arles in fine weather, now you have seen it when it’s dark.</ab>
+<ab rend="indent">However, be of good heart, send the letters directly to me, 2, place Lamartine. I’ll send <rs key="1039" type="pers">Gauguin</rs> the paintings of his that are still at the house as soon as he wishes. We owe him the money he spent on the furniture.<anchor n="4" xml:id="note-t-4" /></ab>
+<ab rend="indent">Handshake, I must go back to the hospital again, but shortly I’ll leave for good.</ab>
+<ns1:whiteline />
+<ab>Ever yours,</ab>
+<ab>Vincent</ab>
+<ns1:whiteline />
+<ab>Also write a line to <rs key="524" type="pers">Mother</rs> on my behalf, so that no one will be worried.<anchor n="5" xml:id="note-t-5" /></ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>Van Gogh was home again for the first time in two weeks, in the company of <rs key="647" type="pers">Roulin</rs>, who informed Theo that he and Vincent had spent four hours in the Yellow House. Roulin went on to write: ‘he is as meek as a lamb’ (il est doux comme un agneau) (FR b1068). The charwoman was <rs key="1926" type="pers">Thérèse Balmoissière</rs>.</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab>In March-April 1888 Van Gogh had made a series of paintings of orchards in blossom; <ref target="let600.xml#n-7">see letter 600, n. 7.</ref></ab></note>
+<note n="3" target="#note-t-3" xml:id="n-3">
+<ab>In the second half of 1887, Theo and <rs key="282" type="pers">Andries Bonger</rs> had drifted apart, since the latter wanted nothing to do with the bohemian artists with whom Theo associated since Vincent’s arrival in Paris. See <hi rend="ital">Brief happiness </hi>1999, pp. 20-21. Andries’s wife, <rs key="283" type="pers">Annie</rs>, may also have played a role in their estrangement.</ab></note>
+<note n="4" target="#note-t-4" xml:id="n-4">
+<ab><rs key="1039" type="pers">Gauguin</rs> had bought ‘a chest of drawers’ and ‘various household utensils’ for the Yellow House; <ref target="let717.xml">see letter 717</ref>.</ab></note>
+<note n="5" target="#note-t-5" xml:id="n-5">
+<ab>Theo must have informed their <rs key="524" type="pers">mother</rs> straightaway of Vincent’s condition, because she already answered his letter on 29 December from Leiden (FR b2425). This remarkable letter from Mrs van Gogh was published in its entirety, along with an English translation, in Jansen <hi rend="ital">et al.</hi> 2003-2. Vincent also wrote to his mother; <ref target="let733.xml">see letter 733</ref>.</ab></note></div></body></text></TEI>

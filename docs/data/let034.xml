@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Theo van Gogh. Paris, Monday, 31 May 1875.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let034" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">034</idno>
+<idno type="collectedletters">27</idno>
+<idno type="brieven1990">034</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Theo van Gogh</ns1:addressee><ns1:placeLet>Paris</ns1:placeLet><ns1:dateLet>Monday, 31 May 1875</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Theo van Gogh. Paris, Monday, 31 May 1875.</p></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b36 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Letter headed: ‘<hi rend="ital">[</hi>Paris, le<hi rend="ital">]</hi> 31 Mai <hi rend="ital">[</hi>187<hi rend="ital">]</hi>5’.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1875-05-31">Monday, 31 May 1875</date>
+                <location>
+                  <placeName>Paris</placeName>
+                  <geo>48.8566101 2.3514992</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Theo van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 0036" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001000038_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000038_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000038_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000038_01_nL.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000038_01_nLt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000038_01_nLf.png" width="380px" /></zone>
+<zone xml:id="zone-pb-1r-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000038_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000038_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000038_01_nRf.png" width="380px" /></zone>
+</surface><surface n="b 0036 V/1962" xml:id="surf-extra-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001000038_02.TIF" /><zone xml:id="zone-extra-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000038_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000038_02_nt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000038_02_nf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab><ns1:suppliedMilestone type="open" />Goupil &amp; C<hi rend="ss">ie</hi></ab><lb n="2" xml:id="l-2" />
+<ab>Editeurs Imprimeurs</ab><lb n="3" xml:id="l-3" />
+<ab>Estampes Françaises &amp; Étrangères</ab><lb n="4" xml:id="l-4" />
+<ab>Tableaux Modernes</ab><lb n="5" xml:id="l-5" />
+<ab>Rue Chaptal, 9, PARIS.</ab><lb n="6" xml:id="l-6" />
+<ab>Succursales à la Haye, Londres, Berlin, New-York.</ab>
+<ns1:whiteline /><lb n="7" xml:id="l-7" />
+<ab>Paris, le<ns1:suppliedMilestone type="close" /> 31 Mai <supplied>187</supplied>5</ab>
+<ns1:whiteline /><lb n="8" xml:id="l-8" />
+<ab>Waarde Theo,</ab><lb n="9" xml:id="l-9" />
+<ab>Dank voor je brief van dezen morgen. </ab><lb n="10" xml:id="l-10" />
+<ab rend="indent">Gisteren heb ik de tentoonstelling van Corot <lb n="11" xml:id="l-11" />gezien.<anchor n="1" xml:id="note-o-1" /> Daar was o.a<c type="kp">_</c> een Sch<hi rend="ss">ij</hi> “Le jardin <lb n="12" xml:id="l-12" />des oliviers”; ik ben blij dat hij dat geschilderd <lb n="13" xml:id="l-13" />heeft.<anchor n="2" xml:id="note-o-2" /></ab><lb n="14" xml:id="l-14" />
+<ab rend="indent">Rechts, een groep olijfboomen, donker tegen de <lb n="15" xml:id="l-15" />schemerende blauwe lucht; op den achter<c type="shy">-</c><lb n="16" xml:id="l-16" />grond heuvels met struiken &amp; een paar groote boomen begroeid, <lb n="17" xml:id="l-17" />waarboven de avondster.</ab><lb n="18" xml:id="l-18" />
+<ab rend="indent">Op de Salon zijn 3 Corot’s, zeer mooi, van <lb n="19" xml:id="l-19" />de mooiste, kort voor zijn dood geschilderd, <lb n="20" xml:id="l-20" />“Les bucheronnes” zal waarschijnlijk eene <lb n="21" xml:id="l-21" />houtsnee in l’Illustration of Le monde illustré <lb n="22" xml:id="l-22" />komen.<anchor n="3" xml:id="note-o-3" /></ab><lb n="23" xml:id="l-23" />
+<ab rend="indent">Zooals gij denken kunt heb ik ook de Louvre &amp; <lb n="24" xml:id="l-24" />Luxembourg gezien.</ab><lb n="25" xml:id="l-25" />
+<ab rend="indent">De Ruysdaels in de Louvre zijn prachtig<c type="kk">/</c> <lb n="26" xml:id="l-26" />vooral Le buisson, L’estacade &amp; Le coup de soleil.<anchor n="4" xml:id="note-o-4" /> 
+<pb f="1r" facs="#zone-pb-1r-2" n="2" xml:id="pb-orig-1r-2" /><lb n="27" xml:id="l-27" />Ik wenschte dat gij de kleine Rembrandt’s <lb n="28" xml:id="l-28" />daar eens zaagt, Les pèlérins d’Emmaus,<anchor n="5" xml:id="note-o-5" /> <lb n="29" xml:id="l-29" />&amp; twee pendanten<c type="kk">/</c> Les philosophes.<anchor n="6" xml:id="note-o-6" /></ab><lb n="30" xml:id="l-30" />
+<ab rend="indent">Ik heb laatst Jules Breton gezien, met <lb n="31" xml:id="l-31" />zijne vrouw &amp; twee dochters.<anchor n="7" xml:id="note-o-7" /> Zijn figuur <lb n="32" xml:id="l-32" />deed mij denken aan J. Maris, maar <lb n="33" xml:id="l-33" />hij heeft donker haar.</ab><lb n="34" xml:id="l-34" />
+<ab rend="indent">Ik stuur U bij gelegenheid een boek van <lb n="35" xml:id="l-35" />hem<c type="kk">/</c> “Les champs &amp; la mer” waar al zijne <lb n="36" xml:id="l-36" />gedichten in staan.<anchor n="8" xml:id="note-o-8" /></ab><lb n="37" xml:id="l-37" />
+<ab rend="indent">Hij heeft een mooi sch<hi rend="ss">ij</hi> op de Salon<c type="kk">/</c> “La <lb n="38" xml:id="l-38" />Saint-Jean”, boerenmeisjes die op een <lb n="39" xml:id="l-39" />zomeravond om ’t St. Jansvuur dansen, <lb n="40" xml:id="l-40" />op den achtergrond het dorp met de <lb n="41" xml:id="l-41" />kerk &amp; de maan er boven.<anchor n="9" xml:id="note-o-9" /></ab>
+<ns1:whiteline /><lb n="42" xml:id="l-42" />
+<ab>Dansez, dansez, oh jeunes filles!</ab><lb n="43" xml:id="l-43" />
+<ab>En chantant vos chansons d’amour.</ab><lb n="44" xml:id="l-44" />
+<ab>Demain pour courir aux faucilles</ab><lb n="45" xml:id="l-45" />
+<ab>Vous sortirez au petit-jour.<anchor n="10" xml:id="note-o-10" /></ab>
+<ns1:whiteline /><lb n="46" xml:id="l-46" />
+<ab>Er zijn nu 3 sch<hi rend="ss">ijen</hi> van hem op de Luxembourg. <lb n="47" xml:id="l-47" />Une procession dans les blés, Les glaneuses, <lb n="48" xml:id="l-48" />&amp; Seule.─<anchor n="11" xml:id="note-o-11" /></ab><lb n="49" xml:id="l-49" />
+<ab rend="indent">à Dieu<c type="kp">_</c></ab>
+<ns1:whiteline /><lb n="50" xml:id="l-50" />
+<ab>Vincent</ab>
+<ns1:whiteline />
+<div type="textualNotes">
+<note n="1-7" target="l-1" targetEnd="l-7"><hi rend="ital">Printed letterhead.</hi></note>
+<note n="38" target="l-38">Saint-Jean” &lt; Saint-Jean</note></div></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>[Letterhead: Goupil Paris]</ab>
+<ns1:whiteline />
+<ab>Paris, 31 May 1875</ab>
+<ns1:whiteline />
+<ab>My dear Theo,</ab>
+<ab>Thanks for your letter of this morning.</ab>
+<ab rend="indent">Yesterday I saw the <rs key="971" type="pers">Corot</rs> exhibition.<anchor n="1" xml:id="note-t-1" /> It included a painting of the ‘Mount of Olives’;<anchor n="2" xml:id="note-t-2" /> I’m glad he painted that.</ab>
+<ab rend="indent">On the right, a group of olive trees, dark against the darkening blue sky; in the background hills covered with shrubs and a couple of tall trees, above them the evening star.</ab>
+<ab rend="indent">There are 3 <rs key="971" type="pers">Corots</rs> at the Salon, very beautiful, the most beautiful one, painted shortly before his death, ‘Women cutting wood’, will probably appear as a woodcut in L’Illustration or Le Monde Illustré.<anchor n="3" xml:id="note-t-3" /></ab>
+<ab rend="indent">I’ve also seen the Louvre and the Luxembourg, as you can imagine.</ab>
+<ab rend="indent">The <rs key="1333" type="pers">Ruisdael</rs>s in the Louvre are magnificent, especially ‘The bush’, ‘The breakwater’ and ‘The ray of sunlight’.<anchor n="4" xml:id="note-t-4" /> <pb f="1r" facs="#zone-pb-1r-2" n="2" xml:id="pb-trans-1r-2" /> I wish you could see the small <rs key="1295" type="pers">Rembrandt</rs>s there, the ‘Supper at Emmaus’,<anchor n="5" xml:id="note-t-5" /> and two pendants, ‘The philosophers’.<anchor n="6" xml:id="note-t-6" /></ab>
+<ab rend="indent">I recently saw <rs key="899" type="pers">Jules Breton</rs> with his<rs key="900" type="pers"> wife</rs> and two daughters.<anchor n="7" xml:id="note-t-7" /> Physically he reminded me of <rs key="1203" type="pers">J. Maris</rs>, though he has dark hair.</ab>
+<ab rend="indent">When I have the chance I’ll send you a book of his, ‘Les champs et la mer’, which contains all his poems.<anchor n="8" xml:id="note-t-8" /></ab>
+<ab rend="indent">He has a beautiful painting at the Salon, ‘The feast of St John’, peasant girls dancing on a summer evening round the St John’s bonfire, in the background the village with its church and the moon above it.<anchor n="9" xml:id="note-t-9" /></ab>
+<ns1:whiteline />
+<ab>Dance, young maidens, dance,</ab>
+<ab>As you sing your songs of love!</ab>
+<ab>Tomorrow, at break of day,</ab>
+<ab>You’ll go, hastening to ply your sickles.<anchor n="10" xml:id="note-t-10" /></ab>
+<ns1:whiteline />
+<ab>There are now 3 paintings by him in the Luxembourg. ‘Procession through a cornfield’, ‘Women gleaning’ and ‘Alone’.<anchor n="11" xml:id="note-t-11" /></ab>
+<ab rend="indent">Adieu</ab>
+<ns1:whiteline />
+<ab>Vincent</ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>Shortly after the death of <rs key="971" type="pers">Jean Baptiste Camille Corot</rs>, a retrospective exhibition of his work was held in the Ecole Nationale des Beaux-Arts. There were 226 works on display.</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab>The painting Van Gogh mentions is <hi rend="ital">Christ on the Mount of Olives</hi>, 1849 (Langres, Musée d’Art et d’Histoire de Langres). <rs key="1705" type="ill">Ill. 1705</rs>. See exhib. cat. Paris 1875-2, p. 52, cat. no. 96.</ab></note>
+<note n="3" target="#note-t-3" xml:id="n-3">
+<ab>The <rs key="971" type="pers">Corot</rs>s at the Salon of 1875 were: <rs key="38" type="otherart"><hi rend="ital">Women cutting wood</hi></rs>, <rs key="39" type="otherart"><hi rend="ital">Pleasures of the evening (danse antique)</hi></rs> and <rs key="40" type="otherart"><hi rend="ital">Biblis</hi></rs>, all dating from 1874-1875 (present whereabouts unknown). The wood engraving <hi rend="ital">Bûcheronnes </hi>(Women cutting wood) by <rs key="1550" type="pers">Auguste Joliet</rs> was later published in <hi rend="ital">Le Monde Illustré</hi> 24 (5 June 1880), p. 348. <rs key="1706" type="ill">Ill. 1706</rs>. Exhib. cat.. Paris 1875-1, p. 77, cat. nos. 519-521; Robaut 1965, vol. 1, p. 33; vol. 3, pp. 322-327, cat. nos. 2195-2197.</ab></note>
+<note n="4" target="#note-t-4" xml:id="n-4">
+<ab>The paintings in question are <rs key="1333" type="pers">Jacob van Ruisdael</rs>’s <hi rend="ital">The bush</hi>; <hi rend="ital">The storm</hi> (this is what Van Gogh probably had in mind when he mentioned <hi rend="ital">L’estacade</hi> (The breakwater)<hi rend="ital"> </hi>– called <hi rend="ital">L’estacade aux eaux rousses</hi> (The breakwater with russet waters) in <ref target="let325.xml">letter 325</ref>; and finally, <hi rend="ital">The ray of sunlight</hi> (Paris, Musée du Louvre). <rs key="1707" type="ill">Ill. 1707</rs>, <rs key="1708" type="ill">ill. 1708</rs> and <rs key="1709" type="ill">ill. 1709</rs>.</ab></note>
+<note n="5" target="#note-t-5" xml:id="n-5">
+<ab><rs key="1295" type="pers">Rembrandt</rs>, <hi rend="ital">The pilgrims at Emmaus</hi>, 1648 (Paris, Musée du Louvre) measures 68 x 65 cm. <rs key="1710" type="ill">Ill. 1710</rs>.</ab></note>
+<note n="6" target="#note-t-6" xml:id="n-6">
+<ab><rs key="1295" type="pers">Rembrandt</rs>,<hi rend="ital"> Philosopher in meditation</hi> (<hi rend="ital">An old man in an interior with winding staircase</hi>), 1632 and <hi rend="ital">Philosopher with an open book</hi> (<hi rend="ital">The philosopher in contemplation</hi>), c. 1640-1645 (Paris, Musée du Louvre). They measure 28 x 34 cm and 28.2 x 34.4 cm, respectively. <rs key="1711" type="ill">Ill. 1711</rs> and <rs key="1712" type="ill">ill. 1712</rs>. The attributions of these works are now disputed: see Bruyn 1986, vol. 2, pp. 638-644, no. C51. The second painting has been attributed to <rs key="1135" type="pers">Salomon Koninck.</rs></ab></note>
+    <note n="7" target="#note-t-7" xml:id="n-7">
+<ab>On 29 April 1858, <rs key="899" type="pers">Jules Breton</rs> married <rs key="900" type="pers">Elodie Breton-De Vigne</rs>, the daughter of Breton’s former teacher <rs key="227" type="pers">Félix De Vigne</rs>. Contrary to what Van Gogh thought, they had but one daughter, <rs key="901" type="pers">Virginie</rs>, who was also Breton’s only pupil. She grew up with her cousin Julie, whom Van Gogh had presumably taken to be a daughter of Breton. Cf. exhib. cat. Omaha 1982, pp. 114-115, cat. no. 77.</ab></note>
+<note n="8" target="#note-t-8" xml:id="n-8">
+<ab><rs key="899" type="pers">Jules Breton</rs>, <rs key="29" type="lit"><hi rend="ital">Les champs et la mer</hi></rs>. Paris 1875.</ab></note>
+    <note n="9" target="#note-t-9" xml:id="n-9">
+<ab><rs key="899" type="pers">Jules Breton,</rs> <hi rend="ital">The feast of Saint John</hi>, 1875 (private collection). <rs key="1713" type="ill">Ill. 1713</rs>.</ab></note>
+<note n="10" target="#note-t-10" xml:id="n-10">
+<ab>The lines are the last stanza of the poem ‘<rs key="30" type="lit">La Saint-Jean</rs>’, taken from Breton 1875, pp. 55-57 (quotation on p. 57).</ab></note>
+<note n="11" target="#note-t-11" xml:id="n-11">
+<ab>The first of these paintings by <rs key="899" type="pers">Jules Breton</rs> in the Musée du Luxembourg is <hi rend="ital">The blessing of the corn in Artois</hi> (<hi rend="ital">Procession through a cornfield</hi>), 1857 (Arras, Musée des Beaux-Arts d’Arras, Ancienne Abbaye Saint Vaast). <rs key="1714" type="ill">Ill. 1714</rs>; the second is <hi rend="ital">Calling home the gleaners</hi>, 1859 (Paris, Musée d’Orsay). <rs key="1715" type="ill">Ill. 1715</rs>. <hi rend="ital">Alone</hi> actually refers to<hi rend="ital"> Evening</hi>, 1860 (Cuisery, Saône-et-Loine, Hôtel de Ville). <rs key="1716" type="ill">Ill. 1716</rs>. Breton sometimes referred to the last work as ‘my alone’.</ab></note></div></body></text></TEI>

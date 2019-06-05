@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Theo van Gogh. Paris, Thursday, 9 December 1875.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let060" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">060</idno>
+<idno type="collectedletters">47</idno>
+<idno type="brieven1990">059</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Theo van Gogh</ns1:addressee><ns1:placeLet>Paris</ns1:placeLet><ns1:dateLet>Thursday, 9 December 1875</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Theo van Gogh. Paris, Thursday, 9 December 1875.</p>
+<note n="1" type="ongoingTopic">
+<p>Friendship with Harry Gladwell <ref target="let055.xml">(55)</ref></p></note></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b60 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Letter headed: ‘<hi rend="ital">[</hi>Paris, le<hi rend="ital">]</hi> 9 Dec. <hi rend="ital">[</hi>187<hi rend="ital">]</hi>5’.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1875-12-09">Thursday, 9 December 1875</date>
+                <location>
+                  <placeName>Paris</placeName>
+                
+      <geo>48.8566101 2.3514992</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Theo van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 0060" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001000063_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000063_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000063_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000063_01_nL.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000063_01_nLt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000063_01_nLf.png" width="380px" /></zone>
+<zone xml:id="zone-pb-1r-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000063_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000063_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000063_01_nRf.png" width="380px" /></zone>
+</surface><surface n="b 0060 V/1962" xml:id="surf-extra-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001000063_02.TIF" /><zone xml:id="zone-extra-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000063_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000063_02_nt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000063_02_nf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab><ns1:suppliedMilestone type="open" />Goupil &amp; C<hi rend="ss">ie</hi></ab><lb n="2" xml:id="l-2" />
+<ab>Editeurs Imprimeurs</ab><lb n="3" xml:id="l-3" />
+<ab>Estampes Françaises &amp; Étrangères</ab><lb n="4" xml:id="l-4" />
+<ab>Tableaux Modernes</ab><lb n="5" xml:id="l-5" />
+<ab>Rue Chaptal, 9, PARIS.</ab><lb n="6" xml:id="l-6" />
+<ab>Succursales à la Haye, Londres, Berlin, New-York.</ab>
+<ns1:whiteline /><lb n="7" xml:id="l-7" />
+<ab>Paris, le<ns1:suppliedMilestone type="close" /> 9 Dec. <supplied>187</supplied>5</ab>
+<ns1:whiteline /><lb n="8" xml:id="l-8" />
+<ab>Waarde Theo,</ab><lb n="9" xml:id="l-9" />
+<ab>Van morgen hoorde ik van huis wat je overkomen is,<anchor n="1" xml:id="note-o-1" /> en <lb n="10" xml:id="l-10" />ik wil U maar dadelijk eens schrijven<c type="kp">_</c></ab><lb n="11" xml:id="l-11" />
+<ab rend="indent">Wist ik maar iets dat ik voor U doen kon; dezer dagen <lb n="12" xml:id="l-12" />gaat er een kist naar den Haag<c type="kk">/</c> ik zal daar wat <lb n="13" xml:id="l-13" />chocolade in doen; Gladwell noemt dat “Consolation”<c type="kp">_</c> <lb n="14" xml:id="l-14" />Het boekje van Jules Breton<anchor n="2" xml:id="note-o-2" /> stuur ik U ook als ik het ten <lb n="15" xml:id="l-15" />minste terug kan krijgen; ik heb het uitgeleend<c type="kp">_</c></ab><lb n="16" xml:id="l-16" />
+<ab rend="indent">Zeer verlangend ben ik te hooren hoe het U gaat; schrijf <lb n="17" xml:id="l-17" />dus spoedig een woordje en vertel, als ge wilt, eens wat <lb n="18" xml:id="l-18" />uitvoerig hoe het U in die dagen ging.</ab><lb n="19" xml:id="l-19" />
+<ab rend="indent">Wat was ik graag bij U, Theo, maar wat zullen wij <lb n="20" xml:id="l-20" />eraan doen, het kan niet anders jongen. Over 14 
+<pb f="1r" facs="#zone-pb-1r-2" n="2" xml:id="pb-orig-1r-2" /><lb n="21" xml:id="l-21" />dagen ga ik naar huis en dan zien we elkaar <lb n="22" xml:id="l-22" />toch in elk geval<c type="kk">/</c> willen we hopen<c type="kk">/</c> en ons weerzien zal <lb n="23" xml:id="l-23" />er om het gebeurde niet minder heerlijk zijn<c type="kp">_</c></ab><lb n="24" xml:id="l-24" />
+<ab rend="indent">Als gij Oom Jan<anchor n="3" xml:id="note-o-3" /> mocht zien<c type="kk">/</c> groet Hem dan s.v.p<c type="kp">_</c> en <lb n="25" xml:id="l-25" />bedank Hem voor zijn brief<c type="kp">_</c></ab><lb n="26" xml:id="l-26" />
+<ab rend="indent">Van daag had ik een brief van Anna<c type="kk">/</c> ik geloof <lb n="27" xml:id="l-27" />zij zich er met lust en opgewektheid in heeft geschikt om <lb n="28" xml:id="l-28" />ginder kerstmis te vieren en zij zal wel helpen om het <lb n="29" xml:id="l-29" />goed te maken.</ab><lb n="30" xml:id="l-30" />
+<ab rend="indent">Gij moet maar zien goede vrienden met Oom Jan <lb n="31" xml:id="l-31" />te worden; ik ken hem weinig maar weet toch hij <lb n="32" xml:id="l-32" />“fijn goud”<anchor n="4" xml:id="note-o-4" /> is.</ab><lb n="33" xml:id="l-33" />
+<ab rend="indent">Wat is het koud geweest<c type="kk">/</c> gelukkig is het hier gisteren <lb n="34" xml:id="l-34" />gaan dooien, ik had daar niets op tegen.</ab><lb n="35" xml:id="l-35" />
+<ab rend="indent">Ik heb het dezer dagen nog al druk met den inventaris <lb n="36" xml:id="l-36" />&amp;c. en het trachten afdoen van een en ander voor ik <lb n="37" xml:id="l-37" />vertrek.</ab><lb n="38" xml:id="l-38" />
+<ab rend="indent">En nu Theo<c type="kk">/</c> in gedachte een hartelijken handdruk<c type="kk">/</c> <lb n="39" xml:id="l-39" />van harte beterschap kerel. Steeds</ab>
+<ns1:whiteline /><lb n="40" xml:id="l-40" />
+<ab>Uw zoo liefh. broeder</ab><lb n="41" xml:id="l-41" />
+<ab>Vincent.</ab>
+<ns1:whiteline />
+<div type="textualNotes">
+<note n="1-7" target="l-1" targetEnd="l-7"><hi rend="ital">Printed letterhead.</hi></note></div></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>[Letterhead: Goupil Paris]</ab>
+<ns1:whiteline />
+<ab>Paris, 9 Dec. 1875</ab>
+<ns1:whiteline />
+<ab>My dear Theo,</ab>
+<ab>This morning I heard from home what happened to you,<anchor n="1" xml:id="note-t-1" /> and I wanted to write to you immediately.</ab>
+<ab rend="indent">If only I knew what I could do for you. One of these days a crate will be going to The Hague; I’ll put some chocolate in it. <rs key="394" type="pers">Gladwell</rs> calls that ‘Consolation’. I’ll also send you the little book by <rs key="899" type="pers">Jules Breton</rs>,<anchor n="2" xml:id="note-t-2" /> at least if I can get it back. I’ve lent it out.</ab>
+<ab rend="indent">I’m very anxious to hear how you are, so drop me a line soon and tell me in detail, if you will, how it was with you those days.</ab>
+<ab rend="indent">How I’d like to be with you, Theo, but what can we do about it? It can’t be helped, old boy. In a fortnight 
+<pb f="1r" facs="#zone-pb-1r-2" n="2" xml:id="pb-trans-1r-2" /> I’ll be going home, and then we hope to see each other in any case, and our seeing each other won’t be any the less wonderful for what has happened.</ab>
+<ab rend="indent">If you should see <rs key="410" type="pers">Uncle Jan</rs>,<anchor n="3" xml:id="note-t-3" /> please give him my regards and thank him for his letter.</ab>
+<ab rend="indent">I received a letter from <rs key="412" type="pers">Anna</rs> today. I believe she’s reconciled to celebrating Christmas there, with a will and enthusiasm, and will help to make it a success.</ab>
+<ab rend="indent">You must try and become good friends with <rs key="410" type="pers">Uncle Jan</rs>; I don’t know him well, but I do know he is ‘fine gold’.<anchor n="4" xml:id="note-t-4" /></ab>
+<ab rend="indent">How cold it’s been. Fortunately, it started to thaw here yesterday, which was fine with me.</ab>
+<ab rend="indent">These last few days I’ve been busy with the inventory &amp;c., and trying to finish off one thing and another before I leave.</ab>
+<ab rend="indent">And now Theo, in thought a hearty handshake, my heartfelt wishes for your recovery, old chap. Ever</ab>
+<ns1:whiteline />
+<ab>Your most loving brother</ab>
+<ab>Vincent.</ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>‘Theo had fallen on the slippery street and had seriously injured his foot’, according to <rs key="416" type="pers">Jo van Gogh-Bonger</rs> in <hi rend="ital">Brieven</hi> 1914, p. 46. On 11 December Theo’s <rs key="526" type="pers">father</rs> expressed his concern: ‘We are anxious to hear what effect the water glass [sodium silicate] bandage has had, and whether you’re rid of the iron machine. But old chap! Take care! And don’t take any chances! It’s better to lie on your back yet a while than to be forced to sit any longer’ (FR b2379).</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab><rs key="899" type="pers">Jules Breton</rs>, <rs key="29" type="lit"><hi rend="ital">Les champs et la mer</hi></rs> (1875); <ref target="let034.xml">see letter 34</ref>.</ab></note>
+<note n="3" target="#note-t-3" xml:id="n-3">
+<ab><rs key="410" type="pers">Johannes van Gogh</rs>, a brother of Mr van Gogh.</ab></note>
+<note n="4" target="#note-t-4" xml:id="n-4">
+<ab>Biblical: see, for example, <ns1:bibleref book="Ps" chap="19" v="11">Ps. 19:11</ns1:bibleref> (in <hi rend="ital">KJ</hi> <ns1:bibleref book="Ps" chap="19" v="10">Ps. 19:10</ns1:bibleref>) and <ns1:bibleref book="Isa" chap="13" v="12">Isa. 13:12</ns1:bibleref>.</ab></note></div></body></text></TEI>

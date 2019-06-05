@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Theo van Gogh. Paris, Saturday, 4 December 1875.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let059" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">059</idno>
+<idno type="collectedletters">46</idno>
+<idno type="brieven1990">058</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Theo van Gogh</ns1:addressee><ns1:placeLet>Paris</ns1:placeLet><ns1:dateLet>Saturday, 4 December 1875</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Theo van Gogh. Paris, Saturday, 4 December 1875.</p>
+<note n="1" type="ongoingTopic">
+<p>Friendship with Harry Gladwell <ref target="let055.xml">(55)</ref></p></note></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b59 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Letter headed: ‘<hi rend="ital">[</hi>Paris, le<hi rend="ital">]</hi> 4 Dec. <hi rend="ital">[</hi>187<hi rend="ital">]</hi>5’.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1875-12-04">Saturday, 4 December 1875</date>
+                <location>
+                  <placeName>Paris</placeName>
+                
+      <geo>48.8566101 2.3514992</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Theo van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 0059" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001000062_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001000062_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000062_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000062_01_nL.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000062_01_nLt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000062_01_nLf.png" width="380px" /></zone>
+<zone xml:id="zone-pb-1r-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000062_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000062_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000062_01_nRf.png" width="380px" /></zone>
+</surface><surface n="b 0059 V/1962" xml:id="surf-extra-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001000062_02.TIF" /><zone xml:id="zone-extra-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001000062_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000062_02_nt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001000062_02_nf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab><ns1:suppliedMilestone type="open" />Goupil &amp; C<hi rend="ss">ie</hi></ab><lb n="2" xml:id="l-2" />
+<ab>Editeurs Imprimeurs</ab><lb n="3" xml:id="l-3" />
+<ab>Estampes Françaises &amp; Étrangères</ab><lb n="4" xml:id="l-4" />
+<ab>Tableaux Modernes</ab><lb n="5" xml:id="l-5" />
+<ab>Rue Chaptal, 9, PARIS.</ab><lb n="6" xml:id="l-6" />
+<ab>Succursales à la Haye, Londres, Berlin, New-York.</ab>
+<ns1:whiteline /><lb n="7" xml:id="l-7" />
+<ab>Paris, le<ns1:suppliedMilestone type="close" /> 4 Dec. <supplied>187</supplied>5</ab>
+<ns1:whiteline /><lb n="8" xml:id="l-8" />
+<ab>Waarde Theo,</ab><lb n="9" xml:id="l-9" />
+<ab>Een enkel woordje in haast omdat het morgen St Niklaas <lb n="10" xml:id="l-10" />is.<anchor n="1" xml:id="note-o-1" /> Dat is toch een aardigen dag in Holland<c type="kk">/</c> ik zou het <lb n="11" xml:id="l-11" />nog wel eens willen zien.</ab><lb n="12" xml:id="l-12" />
+<ab rend="indent">’t Is tijd het Kersmis wordt<c type="kk">/</c> vindt gij dat ook niet, wij <lb n="13" xml:id="l-13" />zullen heel wat te bepraten hebben. ’t Is jammer Anna <lb n="14" xml:id="l-14" />ook niet kan komen,<anchor n="2" xml:id="note-o-2" /> ik hoop zoo zij ook goede dagen dan <lb n="15" xml:id="l-15" />hebben zal, het Kersfeest in Engeland is zeer eigenaardig<anchor n="a" xml:id="note-o-a" /> <lb n="16" xml:id="l-16" />en ’t zal Anna misschien hare omgeving nog meer lief doen <lb n="17" xml:id="l-17" />krijgen als zij het feest ginder viert en meehelpt om <lb n="18" xml:id="l-18" />het daar aan huis goed te maken.─ </ab><lb n="19" xml:id="l-19" />
+<ab rend="indent">Mijn waarden Engelschman, (Gladwell heet hij) gaat <lb n="20" xml:id="l-20" />ook voor een paar dagen naar huis, gij kunt denken hoe <lb n="21" xml:id="l-21" />hij verlangt, hij is nog nooit vóór nu in ernst van huis <lb n="22" xml:id="l-22" />geweest.─</ab>
+<pb f="1r" facs="#zone-pb-1r-2" n="2" xml:id="pb-orig-1r-2" /><lb n="23" xml:id="l-23" />
+<ab rend="indent">Schrijf maar weer eens spoedig.</ab><lb n="24" xml:id="l-24" />
+<ab rend="indent">Gaat gij wel eens naar oom Cor toe<c type="kk">/</c> mocht Hij U <lb n="25" xml:id="l-25" />soms ooit vragen<c type="kk">/</c> neem het dan vooral aan en <lb n="26" xml:id="l-26" />groet hem voor mij als gij Hem ziet.─</ab><lb n="27" xml:id="l-27" />
+<ab rend="indent">Is het bij U ook zoo koud als hier, Gladwell en ik hebben <lb n="28" xml:id="l-28" />’t s’morgens &amp; s’avonds goed bij ons kacheltje.─</ab><lb n="29" xml:id="l-29" />
+<ab rend="indent">Ik ben weer in ’t pijpen rooken vervallen, en ’t smaakt mij <lb n="30" xml:id="l-30" />soms weer als van ouds.</ab><lb n="31" xml:id="l-31" />
+<ab rend="indent">Groeten aan allen die naar mij mochten vragen en <lb n="32" xml:id="l-32" />vooral ook bij Roos en ook aan Jan en Piet.─<anchor n="3" xml:id="note-o-3" /> </ab><lb n="33" xml:id="l-33" />
+<ab rend="indent">Hartelijk druk ik U in gedachten de hand en ben steeds</ab>
+<ns1:whiteline /><lb n="34" xml:id="l-34" />
+<ab>Uw liefh. broeder</ab><lb n="35" xml:id="l-35" />
+<ab>Vincent</ab>
+<ns1:whiteline />
+<div type="textualNotes">
+<note n="1-7" target="l-1" targetEnd="l-7"><hi rend="ital">Printed letterhead.</hi></note></div></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>[Letterhead: Goupil Paris]</ab>
+<ns1:whiteline />
+<ab>Paris, 4 Dec. 1875</ab>
+<ns1:whiteline />
+<ab>My dear Theo,</ab>
+<ab>A few words in haste because tomorrow is the Feast of St Nicholas.<anchor n="1" xml:id="note-t-1" /> That’s such a nice day in Holland, I’d like to see it again sometime.</ab>
+<ab rend="indent">It’s time for Christmas to come, don’t you think? We’ll have a great deal to talk about. It’s a pity that <rs key="412" type="pers">Anna</rs> can’t come either;<anchor n="2" xml:id="note-t-2" /> I so much hope that she’ll have a good time then too. Christmas in England is very special, and perhaps Anna will become even more attached to her surroundings if she celebrates it there and helps to make things pleasant in the house there.</ab>
+<ab rend="indent">My worthy Englishman (his name is <rs key="394" type="pers">Gladwell</rs>) is also going home for a couple of days. You can imagine how much he longs for it; he has never really been away from home before. 
+<pb f="1r" facs="#zone-pb-1r-2" n="2" xml:id="pb-trans-1r-2" /></ab>
+<ab rend="indent">Do write again soon.</ab>
+<ab rend="indent">Do you ever visit <rs key="422" type="pers">Uncle Cor</rs>? If he should ever invite you, accept by all means, and give him my regards if you see him.</ab>
+<ab rend="indent">Is it as cold there as it is here? <rs key="394" type="pers">Gladwell</rs> and I are very cosy by our little stove, mornings and evenings.</ab>
+<ab rend="indent">I’ve taken up pipe-smoking again, and sometimes it tastes just as good as it used to.</ab>
+<ab rend="indent">Regards to everyone who asks after me, especially to the <rs key="642 643" type="pers">Rooses</rs>, and also to <rs key="116" type="pers">Jan</rs> and <rs key="85" type="pers">Piet</rs>.<anchor n="3" xml:id="note-t-3" /></ab>
+<ab rend="indent">I shake your hand heartily in thought, and am ever</ab>
+<ns1:whiteline />
+<ab>Your loving brother</ab>
+<ab>Vincent</ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>The Dutch celebrate the feast of St Nicholas by giving presents to family members and friends on 5 December, the eve of the saint’s name day (6 December).</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab>Their sister <rs key="407" type="pers">Willemien</rs> was also not going to be there at Christmas.</ab></note>
+<note n="a" target="#note-o-a" xml:id="n-a">
+<ab>Here meaning ‘Bijzonder, opmerkelijk’ (special).</ab></note>
+<note n="3" target="#note-t-3" xml:id="n-3">
+<ab>Theo’s co-workers at Goupil’s; <ref target="let019.xml#n-11">see letter 19, n. 11.</ref></ab></note></div></body></text></TEI>

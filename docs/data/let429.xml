@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Theo van Gogh. Nuenen, Wednesday, 13 February 1884.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let429" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">429</idno>
+<idno type="collectedletters">356</idno>
+<idno type="brieven1990">431</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Theo van Gogh</ns1:addressee><ns1:placeLet>Nuenen</ns1:placeLet><ns1:dateLet>Wednesday, 13 February 1884</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Theo van Gogh. Nuenen, Wednesday, 13 February 1884.</p>
+<note n="1" type="ongoingTopic">
+<p>Mrs van Gogh’s broken leg <ref target="let423.xml">(423)</ref></p></note></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b389 V/1962</p></note>
+<note type="date" xml:id="date">
+<p>Date of postmark: Wednesday, 13 February 1884.</p></note>
+<note type="additionalDetail" xml:id="additionalDetail">
+<p>Postcard (5 cent). A 2½-cent stamp has been stuck next to the pre-printed 2½-cent stamp. Over the former the postmark: ‘NUENEN’. Postmarks: ‘NUENEN 8-12 V / 13 FEB 84’, and ‘PARIS 3 DISTRIB 3 / 1<hi rend="ital">[x]</hi> FEB 84’. The address reads: ‘Monsieur Th van Gogh/ 25 Rue de Laval./ <hi rend="ital">Paris</hi>’.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1884-02-13">Wednesday, 13 February 1884</date>
+                <location>
+                  <placeName>Nuenen</placeName>
+                
+      <geo>51.470843 5.5506822</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Theo van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+    <facsimile>
+        <surface n="b 0389" xml:id="surf-pb-1r">
+            <graphic mimeType="image/tiff" rend="norend" url="VGM001000508_02.TIF" />
+            <zone xml:id="zone-pb-1r-1">
+                <graphic mimeType="image/tiff" rend="norend" url="VGM001000508_02_n.tif" />
+                <graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000508_02_nt.jpg" />
+                <graphic mimeType="image/png" rend="facstab" url="VGM001000508_02_nf.png" width="380px" />
+            </zone>
+        </surface>
+        <surface n="b 0389 V/1962" xml:id="surf-pb-1v">
+            <graphic mimeType="image/tiff" rend="norend" url="VGM001000508_01.TIF" />
+            <zone xml:id="zone-pb-1v-2">
+                <graphic mimeType="image/tiff" rend="norend" url="VGM001000508_01_n.tif" />
+                <graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001000508_01_nt.jpg" />
+                <graphic mimeType="image/png" rend="facstab" url="VGM001000508_01_nf.png" width="380px" />
+            </zone>
+        </surface>
+    </facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Waarde Theo,</ab><lb n="1*" xml:id="l-1s" />
+<ab>Vandaag verzond ik aan Uw adres <lb n="2" xml:id="l-2" />een postpakket met 3 paneeltjes en 9 aquarellen.<anchor n="1" xml:id="note-o-1" /> <lb n="3" xml:id="l-3" />Gaarne verneem ik of gij het ontvangen <lb n="4" xml:id="l-4" />hebt. Is er iets bij dat U bevalt, tant <lb n="5" xml:id="l-5" />mieux. Het gaat met Moe zoo al <lb n="6" xml:id="l-6" />’t zelfde. Ben nog aan verscheiden <lb n="7" xml:id="l-7" />wevers bezig die gij later krijgt.</ab><lb n="8" xml:id="l-8" />
+<ab rend="indent">Lies is weer vertrokken,<anchor n="2" xml:id="note-o-2" /> het is een <lb n="9" xml:id="l-9" />heele sjouwerij voor Wil.</ab><lb n="10" xml:id="l-10" />
+<ab rend="indent">Gegroet<c type="kp">_</c></ab>
+<ns1:whiteline /><lb n="10*" xml:id="l-10s" />
+<ab>t<c type="kp">_</c> à t<c type="kp">_</c></ab><lb n="10**" xml:id="l-10ss" />
+<ab>Vincent</ab>
+    <ns1:whiteline /><pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-orig-1v-2" /></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>My dear Theo,</ab>
+<ab>Today I sent a parcel to your address containing 3 small panels and 9 watercolours.<anchor n="1" xml:id="note-t-1" /> Please let me know whether you’ve received it. If there’s anything in it you like, so much the better. <rs key="524" type="pers">Ma</rs> is going on much the same. Am still working on various weavers, which you’ll get later.</ab>
+<ab rend="indent"><rs key="401" type="pers">Lies</rs> has left again,<anchor n="2" xml:id="note-t-2" /> it’s a lot of hard work for <rs key="407" type="pers">Wil</rs>.</ab>
+<ab rend="indent">Regards.</ab>
+<ns1:whiteline />
+<ab>Ever yours,</ab>
+    <ab>Vincent</ab><pb f="1v" facs="#zone-pb-1v-2" n="2" xml:id="pb-trans-1v-2" /></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab>It is no longer possible to establish precisely which panels and watercolours these were. The small panels were most probably works that had been made in Drenthe, because in March Van Gogh says that he doesn’t feel inclined to send Theo the studies he had done in Nuenen. Cf. cat. Amsterdam 1999, pp. 46 (n. 7), 239.</ab></note>
+<note n="2" target="#note-t-2" xml:id="n-2">
+<ab><rs key="401" type="pers">Elisabeth</rs> looked after <rs key="627" type="pers">C.M.L. du Quesne van Bruchem-Van Willis</rs>; <ref target="let426.xml#n-1">see letter 426, n. 1.</ref> <rs key="526" type="pers">Mr van Gogh</rs> had already told Theo in a letter dated Sunday, 10 February 1884: ‘Elisabeth leaves us tomorrow. We will all miss her greatly and it will be particularly hard on <rs key="407" type="pers">Willemien</rs>, who relied on her so much. Fortunately they have both recovered so much’ (FR b2252).</ab></note></div></body></text></TEI>

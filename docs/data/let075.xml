@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>To Theodorus van Gogh and Anna van Gogh-Carbentus. Ramsgate, Monday, 17 April 1876. </title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/let075" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">075</idno>
+<idno type="collectedletters">-</idno>
+<idno type="brieven1990">-</idno></ns1:letIdentifier><ns1:letHeading><author>Vincent van Gogh</author><ns1:addressee>Theodorus van Gogh and Anna van Gogh-Carbentus</ns1:addressee><ns1:placeLet>Ramsgate</ns1:placeLet><ns1:dateLet>Monday, 17 April 1876</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>To Theodorus van Gogh and Anna van Gogh-Carbentus. Ramsgate, Monday, 17 April 1876. </p></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Transcription by Mr van Gogh</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b2222 V/1982</p></note>
+<note type="date" xml:id="date">
+<p>This transcription of a telegram is in a letter of 18 April 1876 from <rs key="526" type="pers">Mr van Gogh</rs> to Theo. He writes that the telegram had arrived the previous day, and had been ‘handed in at Ramsgate at 7.24 a.m.’, so it would have been sent the same day, Monday, 17 April 1876.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Vincent van Gogh</persName>
+                <date when="1876-04-17">Monday, 17 April 1876</date>
+                <location>
+                  <placeName>Ramsgate</placeName>
+                
+      <geo>51.332854 1.4222861</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Theodorus van Gogh and Anna van Gogh-Carbentus</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 2222" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001003336_01.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001003336_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001003336_01_nt.jpg" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001003336_01_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001003336_01_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001003336_01_nRf.png" width="380px" /></zone>
+</surface><surface n="b 2222 V/1982" xml:id="surf-extra-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001003336_02.TIF" /><graphic mimeType="image/tiff" rend="norend" url="VGM001003336_02_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001003336_02_nt.jpg" /><zone xml:id="zone-extra-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001003336_02_nL.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001003336_02_nLt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001003336_02_nLf.png" width="380px" /></zone>
+<zone xml:id="zone-extra-2">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001003336_02_nR.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001003336_02_nRt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001003336_02_nRf.png" width="380px" /></zone>
+</surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>goed aangekomen. kostschool 24 jongens<c type="kp">_</c> <lb n="2" xml:id="l-2" />geloof het goed is. allen gegroet<c type="kp">_</c></ab>
+<ns1:whiteline /><lb n="3" xml:id="l-3" />
+<ab>V.v.G.<anchor n="1" xml:id="note-o-1" /> </ab>
+<ns1:whiteline /></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>Arrived safely. Boarding school, 24 boys. Think it’s all right. Regards to all.</ab>
+<ns1:whiteline />
+<ab>V. v. G.<anchor n="1" xml:id="note-t-1" /></ab></div>
+<div type="notes">
+<note n="1" target="#note-t-1" xml:id="n-1">
+<ab><rs key="526" type="pers">Mr van Gogh</rs> wrote to Theo in the same letter (see <hi rend="ital">Date</hi>): ‘You can imagine that we are eager for more news from Vincent. Yes certainly, you may say, he is a good person through and through! We saw that again the last time he stayed here. Oh, I do hope things go well for him over there. But I am not yet so easy in my mind about that. Twenty-four boy boarders is no small matter. Will he be able to win them over? It can certainly be a good apprenticeship for him, and being with boys, with a still merry heart, can also do him good. We must just wait and see’ (FR b2222). Vincent’s <rs key="524 526" type="pers">parents</rs> did indeed receive more news in the shape of <ref target="let076.xml">letter 76</ref>.</ab></note></div></body></text></TEI>

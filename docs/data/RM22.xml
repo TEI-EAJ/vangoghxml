@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.vangoghletters.org/ns/">
+<teiHeader><fileDesc>
+<titleStmt>
+<title>Paul Gachet to Vincent van Gogh. Auvers-sur-Oise, Monday, probably June-July 1890.</title>
+<editor>Leo Jansen</editor>
+<editor>Hans Luijten</editor>
+<editor>Nienke Bakker</editor></titleStmt>
+<publicationStmt>
+<publisher><name>Huygens Instituut voor Nederlandse Geschiedenis (KNAW)</name><email>info@huygens.knaw.nl</email></publisher>
+<publisher>Van Gogh Museum</publisher>
+<pubPlace>Amsterdam</pubPlace>
+<date type="first" when="2009">2009</date>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+<p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p></licence></availability>
+<ptr target="http://vangoghletters.org/orig/RM22" /></publicationStmt><sourceDesc><ns1:letDesc><ns1:letIdentifier>
+<idno type="jlb">RM22</idno>
+<idno type="collectedletters">-</idno>
+<idno type="brieven1990">-</idno></ns1:letIdentifier><ns1:letHeading><author>Paul Gachet sr.</author><ns1:addressee>Vincent van Gogh</ns1:addressee><ns1:placeLet>Auvers-sur-Oise</ns1:placeLet><ns1:dateLet>probably June-July 1890</ns1:dateLet></ns1:letHeading><ns1:letContents>
+<p>Paul Gachet to Vincent van Gogh. Auvers-sur-Oise, Monday, probably June-July 1890.</p></ns1:letContents>
+<note type="sourceStatus" xml:id="sourceStatus">
+<p>Original manuscript</p></note>
+<note type="location" xml:id="location">
+<p>Amsterdam, Van Gogh Museum, inv. no. b3264 V/1966</p></note>
+<note type="date" xml:id="date">
+<p>It is impossible to assign this scribbled note a precise date. Its amicable tone suggests that Gachet wrote it when Van Gogh had been in Auvers for a while, i.e. some time in June or July 1890, on a Monday.</p></note></ns1:letDesc></sourceDesc></fileDesc><profileDesc>
+            <correspDesc>
+              <correspAction type="sent">
+                <persName>Paul Gachet sr.</persName>
+                
+                <location>
+                  <placeName>Auvers-sur-Oise</placeName>
+                
+      <geo>49.0701875 2.1718687</geo>
+                </location>
+              </correspAction>
+              <correspAction type="received">
+                <persName>Vincent van Gogh</persName>
+              </correspAction>
+            </correspDesc>
+          </profileDesc></teiHeader>
+<facsimile>
+<surface n="b 3264" xml:id="surf-pb-1r"><graphic mimeType="image/tiff" rend="norend" url="VGM001001475_01.TIF" /><zone xml:id="zone-pb-1r-1">
+<graphic mimeType="image/tiff" rend="norend" url="VGM001001475_01_n.tif" /><graphic height="50px" mimeType="image/jpeg" rend="thumbnail" url="VGM001001475_01_nt.jpg" /><graphic mimeType="image/png" rend="facstab" url="VGM001001475_01_nf.png" width="380px" /></zone>
+</surface><surface n="b 3264 V/1966" xml:id="surf-extra-1v"><graphic mimeType="image/tiff" rend="norend" url="VGM001001475_02.TIF" /></surface></facsimile><text><body>
+<div type="original">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-orig-1r-1" /><lb n="1" xml:id="l-1" />
+<ab>Lundi</ab><lb n="2" xml:id="l-2" />
+<ab>Le Bonjour à <lb n="3" xml:id="l-3" />Maître Vangogh <lb n="4" xml:id="l-4" />de son dévoué <lb n="5" xml:id="l-5" />dr Gachet</ab>
+<ns1:whiteline />
+<div type="textualNotes">
+<note n="5" target="l-5">Gachet &lt; <hi rend="ital">The initial of the surname could have been intended to read ‘PG’.</hi></note></div></div>
+<div type="translation">
+<pb f="1r" facs="#zone-pb-1r-1" n="1" xml:id="pb-trans-1r-1" />
+<ab>Monday</ab>
+<ab>Regards to Maître Van Gogh</ab>
+<ab>from his devoted</ab>
+<ab><rs key="389" type="pers">Dr Gachet</rs></ab></div>
+<div type="notes" /></body></text></TEI>
