@@ -59,22 +59,6 @@
                 </ns1:letDesc>
             </sourceDesc>
         </fileDesc>
-        <profileDesc>
-            
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName>Vincent van Gogh</persName>
-                    <date when="1890-07-23">Wednesday, 23 July 1890</date>
-                    <location>
-                        <placeName>Auvers-sur-Oise</placeName>
-                        <geo>49.0400 2.1000</geo>
-                    </location>
-                </correspAction>
-                <correspAction type="received">
-                    <persName>Theo van Gogh</persName>
-                </correspAction>
-            </correspDesc>
-        </profileDesc>
     <profileDesc>
             <correspDesc>
               <correspAction type="sent">
@@ -82,8 +66,7 @@
                 <date when="1890-07-23">Wednesday, 23 July 1890</date>
                 <location>
                   <placeName>Auvers-sur-Oise</placeName>
-                
-      <geo>49.0701875 2.1718687</geo>
+                  <geo>49.0701875 2.1718687</geo>
                 </location>
               </correspAction>
               <correspAction type="received">

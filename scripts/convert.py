@@ -1,4 +1,5 @@
 
+import os.path
 import glob
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -8,13 +9,16 @@ from geopy.geocoders import Nominatim
 prefix = ".//{http://www.tei-c.org/ns/1.0}"
 prefix2 = ".//{http://www.vangoghletters.org/ns/}"
 
-
 files = glob.glob('data/*.xml')
 
 for i in range(len(files)):
     geolocator = Nominatim()
     print(i)
     input_path = files[i]
+    output_path = "../docs/data/"+input_path.split("/")[-1]
+
+    if os.path.exists(output_path):
+        continue
 
     tree = ET.parse(input_path)
     ET.register_namespace('', "http://www.tei-c.org/ns/1.0")
@@ -65,6 +69,6 @@ for i in range(len(files)):
               '''
             ))
 
-        tree.write("../docs/data/"+input_path.split("/")[-1], encoding="utf-8")
+        tree.write(output_path, encoding="utf-8")
     except:
         print("Write Error")

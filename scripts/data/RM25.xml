@@ -66,29 +66,6 @@
                 </vg:letDesc>
             </sourceDesc>
         </fileDesc>
-        <profileDesc>
-            <!-- 
-                
-                <author>Vincent van Gogh</author>
-                        <vg:addressee>Theo van Gogh</vg:addressee>
-                        <vg:placeLet>Auvers-sur-Oise</vg:placeLet>
-                        <vg:dateLet>Wednesday, 23 July 1890</vg:dateLet>
-                
-                -->
-            <correspDesc>
-                <correspAction type="sent">
-                    <persName>Vincent van Gogh</persName>
-                    <date when="1890-07-23">Wednesday, 23 July 1890</date>
-                    <location>
-                        <placeName>Auvers-sur-Oise</placeName>
-                        <geo>49.0400 2.1000</geo>
-                    </location>
-                </correspAction>
-                <correspAction type="received">
-                    <persName>Theo van Gogh</persName>
-                </correspAction>
-            </correspDesc>
-        </profileDesc>
     </teiHeader>
     <facsimile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <surface n="b 0700" xml:id="surf-pb-1r">
